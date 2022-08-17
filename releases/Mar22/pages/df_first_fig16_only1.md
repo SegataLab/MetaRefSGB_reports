@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Mar22](../README.md#taxonomic-families-per-fgb) release: List of FGBs with only one familiy
 FGB ID | Family names
 ------------ | -------------
 FGB598	| 1	| f__Porphyromonadaceae

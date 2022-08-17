@@ -1,7 +1,7 @@
-# Table containing the SGB concerned
+# [May19](../README.md#taxonomic-families-per-fgb) release: List of FGBs with more than one family
 FGB ID | Number of Families | Family names
 ------------ | ------------- | -------------
-FGB101	| f__Haloferacaceae, f__Halococcaceae, f__Haloferacales_unclassified, f__Halobacteriaceae, f__Halorubraceae, f__Natrialbaceae, f__Haloarculaceae
+FGB101	| f__Halorubraceae, f__Haloferacales_unclassified, f__Haloarculaceae, f__Natrialbaceae, f__Halococcaceae, f__Halobacteriaceae, f__Haloferacaceae
 FGB105	| f__Ferroplasmaceae, f__Picrophilaceae
 FGB118	| f__Candidatus_Methanomethylophilaceae, f__Thermoplasmata_unclassified, f__Thermoplasmatales_unclassified
 FGB170	| f__Nitrosopumilaceae, f__Thaumarchaeota_unclassified
@@ -9,146 +9,146 @@ FGB230	| f__Saccharomycetaceae, f__Debaryomycetaceae
 FGB257	| f__Thaumarchaeota_unclassified, f__Thermoplasmatales_unclassified
 FGB291	| f__Desulfurococcaceae, f__Pyrodictiaceae
 FGB324	| f__Atopobiaceae, f__Coriobacteriaceae
-FGB507	| f__Bacteroidetes_unclassified, f__Porphyromonadaceae
-FGB564	| f__Prevotellaceae, f__Bacteroidales_unclassified
-FGB588	| f__Odoribacteraceae, f__Porphyromonadaceae
-FGB616	| f__Dysgonamonadaceae, f__Porphyromonadaceae
+FGB507	| f__Porphyromonadaceae, f__Bacteroidetes_unclassified
+FGB564	| f__Bacteroidales_unclassified, f__Prevotellaceae
+FGB588	| f__Porphyromonadaceae, f__Odoribacteraceae
+FGB616	| f__Porphyromonadaceae, f__Dysgonamonadaceae
 FGB626	| f__Tannerellaceae, f__Porphyromonadaceae
 FGB673	| f__Ruminococcaceae, f__Rikenellaceae
-FGB811	| f__Flavobacteriaceae, f__Flavobacteriales_unclassified
+FGB811	| f__Flavobacteriales_unclassified, f__Flavobacteriaceae
 FGB815	| f__Flavobacteriaceae, f__Flavobacteriia_unclassified
-FGB817	| f__Flavobacteriaceae, f__Cytophagaceae, f__Sphingobacteriaceae
-FGB823	| f__Flavobacteriaceae, f__Flavobacteriales_unclassified
-FGB860	| f__Cytophagaceae, f__Cyclobacteriaceae
-FGB862	| f__Cytophagaceae, f__Cyclobacteriaceae
+FGB817	| f__Sphingobacteriaceae, f__Flavobacteriaceae, f__Cytophagaceae
+FGB823	| f__Flavobacteriales_unclassified, f__Flavobacteriaceae
+FGB860	| f__Cyclobacteriaceae, f__Cytophagaceae
+FGB862	| f__Cyclobacteriaceae, f__Cytophagaceae
 FGB878	| f__Isosphaeraceae, f__Planctomycetaceae
-FGB909	| f__Bacteroidaceae, f__Prevotellaceae, f__Bacteroidales_unclassified
+FGB909	| f__Bacteroidales_unclassified, f__Prevotellaceae, f__Bacteroidaceae
 FGB930	| f__Bacteria_unclassified, f__Raineyaceae
 FGB938	| f__Cytophagales_unclassified, f__Cytophagaceae
 FGB941	| f__Cytophagales_unclassified, f__Hymenobacteraceae
-FGB1245	| f__Tissierellaceae, f__Erysipelotrichaceae
+FGB1245	| f__Erysipelotrichaceae, f__Tissierellaceae
 FGB1372	| f__Lachnospiraceae, f__Ruminococcaceae
 FGB1414	| f__Lachnospiraceae, f__Ruminococcaceae
 FGB1415	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1433	| f__Lachnospiraceae, f__Ruminococcaceae
 FGB1441	| f__Lachnospiraceae, f__Clostridiaceae
-FGB1442	| f__Lachnospiraceae, f__Clostridiales_unclassified
+FGB1442	| f__Clostridiales_unclassified, f__Lachnospiraceae
 FGB1463	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1466	| f__Lachnospiraceae, f__Eubacteriaceae
-FGB1476	| f__Lachnospiraceae, f__Eubacteriaceae, f__Clostridiales_unclassified
+FGB1476	| f__Clostridiales_unclassified, f__Lachnospiraceae, f__Eubacteriaceae
 FGB1480	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1489	| f__Lachnospiraceae, f__Eubacteriaceae
 FGB1509	| f__Lachnospiraceae, f__Clostridiaceae
-FGB1577	| f__Bacteria_unclassified, f__Gammaproteobacteria_unclassified, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae
+FGB1577	| f__Gammaproteobacteria_unclassified, f__Bacteria_unclassified, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae
 FGB1579	| f__Flavobacteriales_unclassified, f__Blattabacteriaceae
-FGB1581	| f__Oxalobacteraceae, f__Betaproteobacteria_unclassified, f__Halomonadaceae
+FGB1581	| f__Oxalobacteraceae, f__Halomonadaceae, f__Betaproteobacteria_unclassified
 FGB1588	| f__Holosporaceae, f__Candidatus_Midichloriaceae
-FGB1632	| f__Mycoplasmataceae, f__Spiroplasmataceae, f__Entomoplasmataceae
-FGB1688	| f__Actinobacteria_unclassified, f__Candidatus_Nanopelagicaceae
+FGB1632	| f__Spiroplasmataceae, f__Entomoplasmataceae, f__Mycoplasmataceae
+FGB1688	| f__Candidatus_Nanopelagicaceae, f__Actinobacteria_unclassified
 FGB1738	| f__Tissierellaceae, f__Tissierellales_unclassified
-FGB1744	| f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1744	| f__Clostridiales_unclassified, f__Clostridiaceae
 FGB1751	| f__Lachnospiraceae, f__Clostridiaceae
-FGB1752	| f__Gottschalkiaceae, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Clostridiaceae, f__Erysipelotrichaceae
-FGB1804	| f__Peptoniphilaceae, f__Clostridiales_Family_XIII_Incertae_Sedis, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Erysipelotrichaceae
+FGB1752	| f__Clostridiaceae, f__Erysipelotrichaceae, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Gottschalkiaceae
+FGB1804	| f__Peptoniphilaceae, f__Peptostreptococcaceae, f__Erysipelotrichaceae, f__Lachnospiraceae, f__Clostridiales_Family_XIII_Incertae_Sedis
 FGB1815	| f__Peptoniphilaceae, f__Aerococcaceae
 FGB1818	| f__Peptoniphilaceae, f__Tissierellia_unclassified
-FGB1821	| f__Peptoniphilaceae, f__Clostridiales_unclassified
+FGB1821	| f__Clostridiales_unclassified, f__Peptoniphilaceae
 FGB1831	| f__Lactobacillaceae, f__Erysipelotrichaceae
-FGB1832	| f__Firmicutes_unclassified, f__Erysipelotrichaceae
-FGB1833	| f__Chlamydiaceae, f__Erysipelotrichaceae
+FGB1832	| f__Erysipelotrichaceae, f__Firmicutes_unclassified
+FGB1833	| f__Erysipelotrichaceae, f__Chlamydiaceae
 FGB1888	| f__Symbiobacteriaceae, f__Clostridiales_Family_XVII_Incertae_Sedis, f__Limnochordaceae
-FGB1894	| f__Heliobacteriaceae, f__Thermoanaerobacteraceae
+FGB1894	| f__Thermoanaerobacteraceae, f__Heliobacteriaceae
 FGB1906	| f__Lactobacillaceae, f__Bifidobacteriaceae
 FGB1920	| f__Oscillospiraceae, f__Lachnospiraceae
-FGB1921	| f__Lachnospiraceae, f__Eubacteriaceae, f__Clostridiales_unclassified
-FGB1922	| f__Eubacteriaceae, f__Hungateiclostridiaceae, f__Clostridiaceae, f__Oscillospiraceae, f__Lachnospiraceae, f__Firmicutes_unclassified, f__Ruminococcaceae
+FGB1921	| f__Clostridiales_unclassified, f__Lachnospiraceae, f__Eubacteriaceae
+FGB1922	| f__Clostridiaceae, f__Eubacteriaceae, f__Oscillospiraceae, f__Hungateiclostridiaceae, f__Lachnospiraceae, f__Firmicutes_unclassified, f__Ruminococcaceae
 FGB1924	| f__Bacillales_unclassified, f__Streptococcaceae
-FGB1933	| f__Paenibacillaceae, f__Bacillaceae
-FGB1943	| f__Paenibacillaceae, f__Bacillaceae
+FGB1933	| f__Bacillaceae, f__Paenibacillaceae
+FGB1943	| f__Bacillaceae, f__Paenibacillaceae
 FGB1944	| f__Carnobacteriaceae, f__Tissierellia_unclassified
-FGB1946	| f__Bacillaceae, f__Planococcaceae
-FGB1953	| f__Bacillaceae, f__Planococcaceae
-FGB1955	| f__Bacillaceae, f__Planococcaceae
-FGB1965	| f__Bacillaceae, f__Planococcaceae
-FGB1972	| f__Carnobacteriaceae, f__Aerococcaceae, f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1946	| f__Planococcaceae, f__Bacillaceae
+FGB1953	| f__Planococcaceae, f__Bacillaceae
+FGB1955	| f__Planococcaceae, f__Bacillaceae
+FGB1965	| f__Planococcaceae, f__Bacillaceae
+FGB1972	| f__Clostridiales_unclassified, f__Clostridiaceae, f__Carnobacteriaceae, f__Aerococcaceae
 FGB1973	| f__Carnobacteriaceae, f__Aerococcaceae
-FGB1975	| f__Enterococcaceae, f__Lactobacillaceae, f__Carnobacteriaceae
-FGB1995	| f__Bacillaceae, f__Sporolactobacillaceae
-FGB1998	| f__Bacillaceae, f__Planococcaceae
-FGB2043	| f__Hungateiclostridiaceae, f__Tissierellia_unclassified, f__Ruminococcaceae, f__Thermoanaerobacterales_Family_IV_Incertae_Sedis, f__Lachnospiraceae, f__Syntrophomonadaceae, f__Clostridiaceae
-FGB2076	| f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1975	| f__Lactobacillaceae, f__Carnobacteriaceae, f__Enterococcaceae
+FGB1995	| f__Sporolactobacillaceae, f__Bacillaceae
+FGB1998	| f__Planococcaceae, f__Bacillaceae
+FGB2043	| f__Clostridiaceae, f__Syntrophomonadaceae, f__Hungateiclostridiaceae, f__Lachnospiraceae, f__Thermoanaerobacterales_Family_IV_Incertae_Sedis, f__Tissierellia_unclassified, f__Ruminococcaceae
+FGB2076	| f__Clostridiales_unclassified, f__Clostridiaceae
 FGB2085	| f__Thermoanaerobacteraceae, f__Thermoanaerobacterales_Family_III_Incertae_Sedis
 FGB2087	| f__Thermoanaerobacteraceae, f__Thermoanaerobacterales_Family_III_Incertae_Sedis
 FGB2130	| f__Opitutaceae, f__Verrucomicrobia_unclassified
 FGB2203	| f__Geobacteraceae, f__Desulfuromonadaceae
 FGB2205	| f__Geobacteraceae, f__Desulfuromonadaceae
-FGB2210	| f__Syntrophobacteraceae, f__Dehalococcoidia_unclassified, f__Desulfobulbaceae, f__Desulfarculaceae, f__Kiritimatiellaceae, f__Geobacteraceae, f__Desulfovibrionaceae
-FGB2211	| f__Deltaproteobacteria_unclassified, f__Desulfobulbaceae
-FGB2239	| f__Desulfobacteraceae, f__Cardiobacteriaceae
-FGB2302	| f__Burkholderiaceae, f__Nitrospiraceae
+FGB2210	| f__Desulfobulbaceae, f__Desulfarculaceae, f__Desulfovibrionaceae, f__Geobacteraceae, f__Syntrophobacteraceae, f__Kiritimatiellaceae, f__Dehalococcoidia_unclassified
+FGB2211	| f__Desulfobulbaceae, f__Deltaproteobacteria_unclassified
+FGB2239	| f__Cardiobacteriaceae, f__Desulfobacteraceae
+FGB2302	| f__Nitrospiraceae, f__Burkholderiaceae
 FGB2396	| f__Sutterellaceae, f__Burkholderiales_unclassified
 FGB2438	| f__Oxalobacteraceae, f__Burkholderiaceae, f__Chromobacteriaceae
-FGB2441	| f__Betaproteobacteria_unclassified, f__Alcaligenaceae
-FGB2467	| f__Alteromonadaceae, f__Pseudoalteromonadaceae
-FGB2469	| f__Idiomarinaceae, f__Gammaproteobacteria_unclassified, f__Alcaligenaceae
-FGB2470	| f__Burkholderiales_unclassified, f__Comamonadaceae
-FGB2478	| f__Alteromonadaceae, f__Chromatiaceae, f__Gammaproteobacteria_unclassified
+FGB2441	| f__Alcaligenaceae, f__Betaproteobacteria_unclassified
+FGB2467	| f__Pseudoalteromonadaceae, f__Alteromonadaceae
+FGB2469	| f__Gammaproteobacteria_unclassified, f__Alcaligenaceae, f__Idiomarinaceae
+FGB2470	| f__Comamonadaceae, f__Burkholderiales_unclassified
+FGB2478	| f__Gammaproteobacteria_unclassified, f__Alteromonadaceae, f__Chromatiaceae
 FGB2482	| f__Aeromonadaceae, f__Gammaproteobacteria_unclassified, f__Ferrimonadaceae
-FGB2483	| f__Enterobacteriaceae, f__Hafniaceae, f__Budviciaceae, f__Yersiniaceae, f__Erwiniaceae, f__Pectobacteriaceae, f__Morganellaceae
-FGB2509	| f__Parvularculaceae, f__Hyphomonadaceae
-FGB2534	| f__Rhodospirillaceae, f__Alphaproteobacteria_unclassified
-FGB2535	| f__Parvularculaceae, f__Alphaproteobacteria_unclassified
+FGB2483	| f__Budviciaceae, f__Hafniaceae, f__Morganellaceae, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae, f__Pectobacteriaceae
+FGB2509	| f__Hyphomonadaceae, f__Parvularculaceae
+FGB2534	| f__Alphaproteobacteria_unclassified, f__Rhodospirillaceae
+FGB2535	| f__Alphaproteobacteria_unclassified, f__Parvularculaceae
 FGB2537	| f__Alphaproteobacteria_unclassified, f__Caulobacteraceae
-FGB2547	| f__Rhodobiaceae, f__Brucellaceae, f__Hyphomicrobiaceae, f__Rhodobacteraceae, f__Aurantimonadaceae, f__Alphaproteobacteria_unclassified, f__Notoacmeibacteraceae, f__Phyllobacteriaceae, f__Rhizobiaceae
+FGB2547	| f__Notoacmeibacteraceae, f__Rhodobacteraceae, f__Rhizobiaceae, f__Alphaproteobacteria_unclassified, f__Aurantimonadaceae, f__Rhodobiaceae, f__Phyllobacteriaceae, f__Brucellaceae, f__Hyphomicrobiaceae
 FGB2548	| f__Beijerinckiaceae, f__Methylocystaceae
-FGB2549	| f__Rhodobiaceae, f__Bacteria_unclassified, f__Bradyrhizobiaceae, f__Rhizobiales_unclassified, f__Xanthobacteraceae, f__Hyphomicrobiaceae, f__Aurantimonadaceae, f__Salinarimonadaceae, f__Methylobacteriaceae, f__Rhodospirillaceae, f__Beijerinckiaceae, f__Chelatococcaceae, f__Acetobacteraceae, f__Alphaproteobacteria_unclassified, f__Rhodospirillales_unclassified, f__Rhodobacteraceae, f__Methylocystaceae
-FGB2552	| f__Sphingomonadales_unclassified, f__Erythrobacteraceae, f__Alphaproteobacteria_unclassified, f__Sphingomonadaceae
+FGB2549	| f__Acetobacteraceae, f__Bradyrhizobiaceae, f__Beijerinckiaceae, f__Rhizobiales_unclassified, f__Rhodobacteraceae, f__Alphaproteobacteria_unclassified, f__Xanthobacteraceae, f__Methylocystaceae, f__Bacteria_unclassified, f__Aurantimonadaceae, f__Rhodobiaceae, f__Rhodospirillales_unclassified, f__Rhodospirillaceae, f__Salinarimonadaceae, f__Chelatococcaceae, f__Hyphomicrobiaceae, f__Methylobacteriaceae
+FGB2552	| f__Erythrobacteraceae, f__Alphaproteobacteria_unclassified, f__Sphingomonadales_unclassified, f__Sphingomonadaceae
 FGB2556	| f__Rhodobiaceae, f__Rhodospirillaceae
 FGB2563	| f__Gammaproteobacteria_unclassified, f__Halomonadaceae
 FGB2566	| f__Alteromonadaceae, f__Halomonadaceae
 FGB2573	| f__Gammaproteobacteria_unclassified, f__Halieaceae
-FGB2583	| f__Gammaproteobacteria_unclassified, f__Ectothiorhodospiraceae, f__Chromatiales_unclassified
+FGB2583	| f__Gammaproteobacteria_unclassified, f__Chromatiales_unclassified, f__Ectothiorhodospiraceae
 FGB2593	| f__Xanthomonadaceae, f__Rhodanobacteraceae
-FGB2594	| f__Neisseriaceae, f__Burkholderiaceae, f__Sterolibacteriaceae, f__Alcaligenaceae, f__Comamonadaceae, f__Zoogloeaceae, f__Oxalobacteraceae, f__Chromobacteriaceae, f__Rhodocyclaceae, f__Betaproteobacteria_unclassified, f__Burkholderiales_unclassified, f__Pseudomonadaceae, f__Azonexaceae, f__Hydrogenophilaceae
+FGB2594	| f__Comamonadaceae, f__Burkholderiaceae, f__Betaproteobacteria_unclassified, f__Azonexaceae, f__Oxalobacteraceae, f__Chromobacteriaceae, f__Pseudomonadaceae, f__Sterolibacteriaceae, f__Rhodocyclaceae, f__Neisseriaceae, f__Zoogloeaceae, f__Burkholderiales_unclassified, f__Alcaligenaceae, f__Hydrogenophilaceae
 FGB2598	| f__Gallionellaceae, f__Thiobacillaceae
-FGB2603	| f__Myxococcales_unclassified, f__Gemmatimonadaceae, f__Sandaracinaceae, f__Nannocystaceae, f__Anaeromyxobacteraceae, f__Polyangiaceae, f__Kofleriaceae
+FGB2603	| f__Gemmatimonadaceae, f__Anaeromyxobacteraceae, f__Nannocystaceae, f__Myxococcales_unclassified, f__Kofleriaceae, f__Polyangiaceae, f__Sandaracinaceae
 FGB2604	| f__Archangiaceae, f__Myxococcaceae
-FGB2609	| f__Patulibacteraceae, f__Thermoleophilaceae, f__Conexibacteraceae
+FGB2609	| f__Thermoleophilaceae, f__Conexibacteraceae, f__Patulibacteraceae
 FGB2665	| f__Coleofasciculaceae, f__Leptolyngbyaceae, f__Oscillatoriaceae
 FGB2681	| f__Coleofasciculaceae, f__Microcoleaceae
-FGB2683	| f__Microcoleaceae, f__Oscillatoriaceae
+FGB2683	| f__Oscillatoriaceae, f__Microcoleaceae
 FGB2685	| f__Microcoleaceae, f__Oscillatoriaceae
-FGB2686	| f__Microcoleaceae, f__Oscillatoriaceae
-FGB2690	| f__Chroococcidiopsidaceae, f__Chroococcaceae, f__Chroococcales_unclassified
+FGB2686	| f__Oscillatoriaceae, f__Microcoleaceae
+FGB2690	| f__Chroococcaceae, f__Chroococcales_unclassified, f__Chroococcidiopsidaceae
 FGB2692	| f__Aphanizomenonaceae, f__Nostocaceae
-FGB2693	| f__Calotrichaceae, f__Aphanizomenonaceae, f__Nostocaceae, f__Scytonemataceae, f__Tolypothrichaceae, f__Rivulariaceae, f__Nostocales_unclassified, f__Hapalosiphonaceae
+FGB2693	| f__Nostocaceae, f__Scytonemataceae, f__Tolypothrichaceae, f__Nostocales_unclassified, f__Calotrichaceae, f__Hapalosiphonaceae, f__Aphanizomenonaceae, f__Rivulariaceae
 FGB2697	| f__Chroococcaceae, f__Cyanobacteriaceae
 FGB2702	| f__Synechococcaceae, f__Aphanothecaceae
-FGB2703	| f__Dermocarpellaceae, f__Chroococcaceae
-FGB2706	| f__Synechococcaceae, f__Pseudanabaenaceae, f__Leptolyngbyaceae
+FGB2703	| f__Chroococcaceae, f__Dermocarpellaceae
+FGB2706	| f__Leptolyngbyaceae, f__Synechococcaceae, f__Pseudanabaenaceae
 FGB2709	| f__Burkholderiaceae, f__Betaproteobacteria_unclassified
-FGB2735	| f__Bacteria_unclassified, f__Methylococcaceae, f__Gammaproteobacteria_unclassified
-FGB2736	| f__Idiomarinaceae, f__Alteromonadaceae, f__Gammaproteobacteria_unclassified, f__Piscirickettsiaceae
-FGB2741	| f__Gottschalkiaceae, f__Thiotrichaceae
+FGB2735	| f__Methylococcaceae, f__Gammaproteobacteria_unclassified, f__Bacteria_unclassified
+FGB2736	| f__Gammaproteobacteria_unclassified, f__Alteromonadaceae, f__Piscirickettsiaceae, f__Idiomarinaceae
+FGB2741	| f__Thiotrichaceae, f__Gottschalkiaceae
 FGB2803	| f__Hungateiclostridiaceae, f__Clostridiaceae
 FGB2892	| f__Catabacteriaceae, f__Christensenellaceae
 FGB2991	| f__Atopobiaceae, f__Coriobacteriaceae
 FGB2993	| f__Eggerthellaceae, f__Coriobacteriaceae
-FGB3014	| f__Clostridiaceae, f__Ruminococcaceae
-FGB3056	| f__Oscillospiraceae, f__Ruminococcaceae, f__Clostridiales_unclassified
-FGB3076	| f__Desulfovibrionaceae, f__Desulfomicrobiaceae
+FGB3014	| f__Ruminococcaceae, f__Clostridiaceae
+FGB3056	| f__Clostridiales_unclassified, f__Oscillospiraceae, f__Ruminococcaceae
+FGB3076	| f__Desulfomicrobiaceae, f__Desulfovibrionaceae
 FGB3091	| f__Rhodothermaceae, f__Rubricoccaceae
-FGB3109	| f__Tsukamurellaceae, f__Segniliparaceae, f__Mycobacteriaceae, f__Nocardiaceae, f__Gordoniaceae, f__Dietziaceae
+FGB3109	| f__Nocardiaceae, f__Tsukamurellaceae, f__Gordoniaceae, f__Mycobacteriaceae, f__Dietziaceae, f__Segniliparaceae
 FGB3110	| f__Propionibacteriaceae, f__Bifidobacteriaceae
-FGB3112	| f__Propionibacteriaceae, f__Nocardioidaceae
+FGB3112	| f__Nocardioidaceae, f__Propionibacteriaceae
 FGB3113	| f__Dermatophilaceae, f__Actinomycetaceae
-FGB3115	| f__Dermatophilaceae, f__Streptosporangiaceae, f__Cryptosporangiaceae, f__Nocardioidaceae, f__Nakamurellaceae, f__Frankiaceae, f__Ruaniaceae, f__Glycomycetaceae, f__Dermacoccaceae, f__Micromonosporaceae, f__Catenulisporaceae, f__Promicromonosporaceae, f__Beutenbergiaceae, f__Cellulomonadaceae, f__Demequinaceae, f__Intrasporangiaceae, f__Nocardiopsaceae, f__Nocardiaceae, f__Kineosporiaceae, f__Actinobacteria_unclassified, f__Streptomycetaceae, f__Actinomycetales_unclassified, f__Geodermatophilaceae, f__Actinopolysporaceae, f__Actinospicaceae, f__Thermomonosporaceae, f__Pseudonocardiaceae, f__Jiangellaceae, f__Micrococcales_unclassified, f__Bogoriellaceae, f__Sanguibacteraceae
-FGB3119	| f__Corynebacteriaceae, f__Actinobacteria_unclassified, f__Micrococcaceae, f__Microbacteriaceae, f__Dermabacteraceae, f__Actinomycetales_unclassified
-FGB3132	| f__Corynebacteriaceae, f__Campylobacteraceae
-FGB3136	| f__Dermabacteraceae, f__Ruaniaceae, f__Micrococcaceae, f__Actinomycetaceae
+FGB3115	| f__Micromonosporaceae, f__Thermomonosporaceae, f__Actinospicaceae, f__Streptosporangiaceae, f__Actinomycetales_unclassified, f__Intrasporangiaceae, f__Nocardiopsaceae, f__Nocardiaceae, f__Catenulisporaceae, f__Cryptosporangiaceae, f__Dermacoccaceae, f__Nakamurellaceae, f__Cellulomonadaceae, f__Frankiaceae, f__Actinopolysporaceae, f__Actinobacteria_unclassified, f__Kineosporiaceae, f__Promicromonosporaceae, f__Sanguibacteraceae, f__Beutenbergiaceae, f__Ruaniaceae, f__Glycomycetaceae, f__Dermatophilaceae, f__Demequinaceae, f__Streptomycetaceae, f__Bogoriellaceae, f__Jiangellaceae, f__Pseudonocardiaceae, f__Micrococcales_unclassified, f__Nocardioidaceae, f__Geodermatophilaceae
+FGB3119	| f__Dermabacteraceae, f__Micrococcaceae, f__Microbacteriaceae, f__Actinomycetales_unclassified, f__Corynebacteriaceae, f__Actinobacteria_unclassified
+FGB3132	| f__Campylobacteraceae, f__Corynebacteriaceae
+FGB3136	| f__Ruaniaceae, f__Dermabacteraceae, f__Micrococcaceae, f__Actinomycetaceae
 FGB3144	| f__Jonesiaceae, f__Micrococcales_unclassified
 FGB3153	| f__Chlamydiaceae, f__Bifidobacteriaceae
-FGB4086	| f__Hydrogenothermaceae, f__Aquificaceae
+FGB4086	| f__Aquificaceae, f__Hydrogenothermaceae
 FGB4095	| f__Haliscomenobacteraceae, f__Oscillatoriaceae
 FGB4107	| f__Prochloraceae, f__Synechococcaceae
 FGB4169	| f__Bacteria_unclassified, f__Archaea_unclassified

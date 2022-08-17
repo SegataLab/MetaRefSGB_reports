@@ -1,10 +1,12 @@
 # Report for the Jan19 release
+[Here](NaN00-Jan19_comparison.md) the comparison between NaN00 and Jan19 releases.
+
 ## Releases overview
 
 
 Release | Total MAGs | Total Reference Genomes | New MAGs | New Reference Genomes | Total kSGBs | Total uSGBs | New kSGBs | New uSGBs | Unknown to known
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Jan19](../Jan19/Jan19.md)	| 160267	| 75446	| 160267	| 75446	| 9641	| 6690	| 9641	| 6690	| 0
+[Jan19](../Jan19/README.md)	| 160267	| 75446	| 160267	| 75446	| 9641	| 6690	| 9641	| 6690	| 0
 
 ## Jan19 release overview
 

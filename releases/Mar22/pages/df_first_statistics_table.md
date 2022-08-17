@@ -1,3 +1,4 @@
+# [Mar22](../README.md#table-containing-the-statistics-for-the-current-version) release: Table containing the statistics for the current version
 SGB | Number of genomes | Average distance | Max distance | Min distance | Max average distance of rows | Min average distance of rows | Number of outliers
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 14535	| 1985	| 0.0471516905227782	| 0.0971654	| 6.44162e-05	| 0.063133839264113	| 0.0420378916834677	| 252

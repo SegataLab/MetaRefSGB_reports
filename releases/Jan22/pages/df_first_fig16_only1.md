@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Jan22](../README.md#taxonomic-families-per-fgb) release: List of FGBs with only one familiy
 FGB ID | Family names
 ------------ | -------------
 FGB233	| 1	| f__Peptostreptococcaceae

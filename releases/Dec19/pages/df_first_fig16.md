@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Dec19](../README.md#taxonomic-families-per-fgb) release: List of FGBs with their families
 FGB ID | Number of Families | Family names
 ------------ | ------------- | -------------
 FGB27	| 1	| f__Euryarchaeota_unclassified
@@ -8,13 +8,13 @@ FGB86	| 1	| f__Methanoregulaceae
 FGB92	| 1	| f__Methanomicrobiaceae
 FGB93	| 1	| f__Methanocellaceae
 FGB100	| 1	| f__Haloferacaceae
-FGB101	| 8	| f__Haloferacaceae, f__Halococcaceae, f__Haloferacales_unclassified, f__Halobacteriaceae, f__Halorubraceae, f__Natrialbaceae, f__Halobacteriales_unclassified, f__Haloarculaceae
+FGB101	| 8	| f__Halobacteriales_unclassified, f__Halorubraceae, f__Haloferacales_unclassified, f__Haloarculaceae, f__Natrialbaceae, f__Halococcaceae, f__Halobacteriaceae, f__Haloferacaceae
 FGB104	| 1	| f__Ferroplasmaceae
 FGB105	| 2	| f__Ferroplasmaceae, f__Picrophilaceae
 FGB106	| 1	| f__Cuniculiplasmataceae
 FGB108	| 1	| f__Thermoplasmataceae
 FGB118	| 3	| f__Candidatus_Methanomethylophilaceae, f__Thermoplasmata_unclassified, f__Thermoplasmatales_unclassified
-FGB167	| 2	| f__Thaumarchaeota_unclassified, f__Nitrosopumilaceae
+FGB167	| 2	| f__Nitrosopumilaceae, f__Thaumarchaeota_unclassified
 FGB169	| 1	| f__Thaumarchaeota_unclassified
 FGB170	| 2	| f__Nitrosopumilaceae, f__Thaumarchaeota_unclassified
 FGB190	| 1	| f__Candidatus_Methanoperedenaceae
@@ -63,12 +63,12 @@ FGB436	| 1	| f__Alphaproteobacteria_unclassified
 FGB449	| 1	| f__Candidatus_Tectomicrobia_unclassified
 FGB478	| 1	| f__Petrotogaceae
 FGB479	| 1	| f__Petrotogaceae
-FGB507	| 2	| f__Bacteroidetes_unclassified, f__Porphyromonadaceae
+FGB507	| 2	| f__Porphyromonadaceae, f__Bacteroidetes_unclassified
 FGB551	| 1	| f__Prevotellaceae
 FGB552	| 1	| f__Prevotellaceae
-FGB559	| 2	| f__Bacteroidaceae, f__Prevotellaceae
+FGB559	| 2	| f__Prevotellaceae, f__Bacteroidaceae
 FGB563	| 1	| f__Prevotellaceae
-FGB564	| 2	| f__Prevotellaceae, f__Bacteroidales_unclassified
+FGB564	| 2	| f__Bacteroidales_unclassified, f__Prevotellaceae
 FGB565	| 1	| f__Prevotellaceae
 FGB566	| 1	| f__Prevotellaceae
 FGB567	| 1	| f__Prevotellaceae
@@ -77,11 +77,11 @@ FGB577	| 1	| f__Prevotellaceae
 FGB579	| 1	| f__Prevotellaceae
 FGB581	| 1	| f__Prevotellaceae
 FGB585	| 1	| f__Prevotellaceae
-FGB587	| 2	| f__Dysgonamonadaceae, f__Prevotellaceae
-FGB588	| 2	| f__Odoribacteraceae, f__Porphyromonadaceae
+FGB587	| 2	| f__Prevotellaceae, f__Dysgonamonadaceae
+FGB588	| 2	| f__Porphyromonadaceae, f__Odoribacteraceae
 FGB589	| 1	| f__Odoribacteraceae
 FGB592	| 1	| f__Prevotellaceae
-FGB595	| 6	| f__Dysgonamonadaceae, f__Tannerellaceae, f__Bacteroidaceae, f__Muribaculaceae, f__Porphyromonadaceae, f__Bacteroidales_unclassified
+FGB595	| 6	| f__Dysgonamonadaceae, f__Bacteroidaceae, f__Bacteroidales_unclassified, f__Muribaculaceae, f__Porphyromonadaceae, f__Tannerellaceae
 FGB597	| 1	| f__Bacteroidaceae
 FGB598	| 1	| f__Tannerellaceae
 FGB599	| 1	| f__Tannerellaceae
@@ -92,7 +92,7 @@ FGB610	| 1	| f__Porphyromonadaceae
 FGB611	| 1	| f__Porphyromonadaceae
 FGB613	| 1	| f__Dysgonamonadaceae
 FGB614	| 1	| f__Porphyromonadaceae
-FGB616	| 3	| f__Tannerellaceae, f__Dysgonamonadaceae, f__Porphyromonadaceae
+FGB616	| 3	| f__Tannerellaceae, f__Porphyromonadaceae, f__Dysgonamonadaceae
 FGB617	| 1	| f__Porphyromonadaceae
 FGB622	| 1	| f__Porphyromonadaceae
 FGB623	| 1	| f__Tannerellaceae
@@ -100,7 +100,7 @@ FGB624	| 1	| f__Bacteroidales_unclassified
 FGB625	| 1	| f__Bacteroidales_unclassified
 FGB626	| 2	| f__Tannerellaceae, f__Porphyromonadaceae
 FGB633	| 1	| f__Muribaculaceae
-FGB634	| 4	| f__Bacteria_unclassified, f__Barnesiellaceae, f__Prevotellaceae, f__Muribaculaceae
+FGB634	| 4	| f__Prevotellaceae, f__Bacteria_unclassified, f__Barnesiellaceae, f__Muribaculaceae
 FGB670	| 1	| f__Rikenellaceae
 FGB673	| 2	| f__Ruminococcaceae, f__Rikenellaceae
 FGB680	| 1	| f__Amoebophilaceae
@@ -126,13 +126,13 @@ FGB806	| 1	| f__Flavobacteriaceae
 FGB807	| 1	| f__Flavobacteriaceae
 FGB808	| 1	| f__Flavobacteriaceae
 FGB810	| 1	| f__Flavobacteriaceae
-FGB811	| 2	| f__Flavobacteriaceae, f__Flavobacteriales_unclassified
+FGB811	| 2	| f__Flavobacteriales_unclassified, f__Flavobacteriaceae
 FGB815	| 2	| f__Flavobacteriaceae, f__Flavobacteriia_unclassified
 FGB816	| 1	| f__Flavobacteriaceae
-FGB817	| 3	| f__Flavobacteriaceae, f__Cytophagaceae, f__Sphingobacteriaceae
+FGB817	| 3	| f__Sphingobacteriaceae, f__Flavobacteriaceae, f__Cytophagaceae
 FGB820	| 1	| f__Flavobacteriaceae
 FGB821	| 1	| f__Flavobacteriaceae
-FGB823	| 2	| f__Flavobacteriaceae, f__Flavobacteriales_unclassified
+FGB823	| 2	| f__Flavobacteriales_unclassified, f__Flavobacteriaceae
 FGB825	| 1	| f__Flavobacteriaceae
 FGB826	| 1	| f__Flavobacteriaceae
 FGB827	| 1	| f__Flavobacteriaceae
@@ -151,9 +151,9 @@ FGB853	| 1	| f__Cytophagaceae
 FGB854	| 1	| f__Cytophagaceae
 FGB855	| 1	| f__Flammeovirgaceae
 FGB858	| 1	| f__Flammeovirgaceae
-FGB860	| 2	| f__Cytophagaceae, f__Cyclobacteriaceae
+FGB860	| 2	| f__Cyclobacteriaceae, f__Cytophagaceae
 FGB861	| 1	| f__Cyclobacteriaceae
-FGB862	| 2	| f__Cytophagaceae, f__Cyclobacteriaceae
+FGB862	| 2	| f__Cyclobacteriaceae, f__Cytophagaceae
 FGB865	| 1	| f__Cyclobacteriaceae
 FGB866	| 1	| f__Flammeovirgaceae
 FGB875	| 1	| f__Planctomycetaceae
@@ -163,7 +163,7 @@ FGB884	| 1	| f__Planctomycetaceae
 FGB885	| 1	| f__Planctomycetaceae
 FGB886	| 1	| f__Planctomycetaceae
 FGB903	| 1	| f__Schleiferiaceae
-FGB909	| 3	| f__Bacteroidaceae, f__Prevotellaceae, f__Bacteroidales_unclassified
+FGB909	| 3	| f__Bacteroidales_unclassified, f__Prevotellaceae, f__Bacteroidaceae
 FGB910	| 1	| f__Flavobacteriaceae
 FGB917	| 1	| f__Sedimentisphaeraceae
 FGB922	| 1	| f__Candidatus_Brocadiaceae
@@ -215,10 +215,10 @@ FGB1220	| 1	| f__Clostridiales_Family_XIII_Incertae_Sedis
 FGB1225	| 1	| f__Clostridiales_Family_XIII_Incertae_Sedis
 FGB1233	| 1	| f__Hungateiclostridiaceae
 FGB1240	| 1	| f__Clostridiaceae
-FGB1245	| 4	| f__Tissierellaceae, f__Peptoniphilaceae, f__Firmicutes_unclassified, f__Erysipelotrichaceae
-FGB1250	| 2	| f__Clostridia_unclassified, f__Erysipelotrichaceae
+FGB1245	| 4	| f__Erysipelotrichaceae, f__Peptoniphilaceae, f__Tissierellaceae, f__Firmicutes_unclassified
+FGB1250	| 2	| f__Erysipelotrichaceae, f__Clostridia_unclassified
 FGB1253	| 1	| f__Erysipelotrichaceae
-FGB1254	| 2	| f__Eubacteriaceae, f__Erysipelotrichaceae
+FGB1254	| 2	| f__Erysipelotrichaceae, f__Eubacteriaceae
 FGB1255	| 1	| f__Erysipelotrichaceae
 FGB1256	| 1	| f__Erysipelotrichaceae
 FGB1268	| 1	| f__Eubacteriaceae
@@ -230,8 +230,8 @@ FGB1330	| 1	| f__Ruminococcaceae
 FGB1331	| 1	| f__Ruminococcaceae
 FGB1333	| 1	| f__Ruminococcaceae
 FGB1334	| 1	| f__Firmicutes_unclassified
-FGB1336	| 3	| f__Clostridiaceae, f__Eubacteriaceae, f__Ruminococcaceae
-FGB1365	| 3	| f__Bacteria_unclassified, f__Ruminococcaceae, f__Clostridiales_unclassified
+FGB1336	| 3	| f__Ruminococcaceae, f__Clostridiaceae, f__Eubacteriaceae
+FGB1365	| 3	| f__Clostridiales_unclassified, f__Ruminococcaceae, f__Bacteria_unclassified
 FGB1368	| 1	| f__Ruminococcaceae
 FGB1369	| 1	| f__Ruminococcaceae
 FGB1372	| 2	| f__Lachnospiraceae, f__Ruminococcaceae
@@ -243,7 +243,7 @@ FGB1407	| 1	| f__Lachnospiraceae
 FGB1409	| 1	| f__Lachnospiraceae
 FGB1411	| 2	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1413	| 1	| f__Lachnospiraceae
-FGB1414	| 4	| f__Firmicutes_unclassified, f__Lachnospiraceae, f__Ruminococcaceae, f__Clostridiales_unclassified
+FGB1414	| 4	| f__Clostridiales_unclassified, f__Lachnospiraceae, f__Firmicutes_unclassified, f__Ruminococcaceae
 FGB1415	| 2	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1416	| 2	| f__Lachnospiraceae, f__Ruminococcaceae
 FGB1417	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Ruminococcaceae
@@ -253,18 +253,18 @@ FGB1422	| 1	| f__Clostridiaceae
 FGB1428	| 1	| f__Lachnospiraceae
 FGB1430	| 1	| f__Lachnospiraceae
 FGB1432	| 1	| f__Eubacteriaceae
-FGB1433	| 4	| f__Lachnospiraceae, f__Ruminococcaceae, f__Clostridiales_unclassified, f__Erysipelotrichaceae
+FGB1433	| 4	| f__Clostridiales_unclassified, f__Lachnospiraceae, f__Ruminococcaceae, f__Erysipelotrichaceae
 FGB1436	| 1	| f__Lachnospiraceae
 FGB1438	| 1	| f__Lachnospiraceae
 FGB1439	| 2	| f__Lachnospiraceae, f__Clostridiaceae
-FGB1440	| 2	| f__Clostridia_unclassified, f__Lachnospiraceae
-FGB1441	| 3	| f__Bacteroidaceae, f__Lachnospiraceae, f__Clostridiaceae
+FGB1440	| 2	| f__Lachnospiraceae, f__Clostridia_unclassified
+FGB1441	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Bacteroidaceae
 FGB1442	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Ruminococcaceae
 FGB1443	| 1	| f__Clostridiaceae
 FGB1444	| 1	| f__Lachnospiraceae
-FGB1447	| 2	| f__Firmicutes_unclassified, f__Lachnospiraceae
-FGB1449	| 3	| f__Clostridiaceae, f__Lachnospiraceae, f__Ruminococcaceae
-FGB1451	| 3	| f__Firmicutes_unclassified, f__Lachnospiraceae, f__Clostridiaceae
+FGB1447	| 2	| f__Lachnospiraceae, f__Firmicutes_unclassified
+FGB1449	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Ruminococcaceae
+FGB1451	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Firmicutes_unclassified
 FGB1454	| 1	| f__Lachnospiraceae
 FGB1455	| 2	| f__Lachnospiraceae, f__Eubacteriaceae
 FGB1457	| 2	| f__Lachnospiraceae, f__Clostridiaceae
@@ -274,29 +274,29 @@ FGB1466	| 2	| f__Lachnospiraceae, f__Eubacteriaceae
 FGB1468	| 1	| f__Lachnospiraceae
 FGB1469	| 1	| f__Lachnospiraceae
 FGB1472	| 1	| f__Eubacteriaceae
-FGB1476	| 3	| f__Lachnospiraceae, f__Eubacteriaceae, f__Clostridiales_unclassified
+FGB1476	| 3	| f__Clostridiales_unclassified, f__Lachnospiraceae, f__Eubacteriaceae
 FGB1477	| 1	| f__Clostridiales_unclassified
 FGB1480	| 2	| f__Lachnospiraceae, f__Clostridiaceae
 FGB1489	| 2	| f__Lachnospiraceae, f__Eubacteriaceae
 FGB1494	| 1	| f__Lachnospiraceae
 FGB1500	| 1	| f__Lachnospiraceae
-FGB1508	| 2	| f__Clostridia_unclassified, f__Lachnospiraceae
+FGB1508	| 2	| f__Lachnospiraceae, f__Clostridia_unclassified
 FGB1509	| 2	| f__Lachnospiraceae, f__Clostridiaceae
-FGB1515	| 2	| f__Lachnospiraceae, f__Erysipelotrichaceae
+FGB1515	| 2	| f__Erysipelotrichaceae, f__Lachnospiraceae
 FGB1522	| 1	| f__Lachnospiraceae
 FGB1527	| 1	| f__Lachnospiraceae
 FGB1533	| 2	| f__Lachnospiraceae, f__Fusobacteriaceae
 FGB1535	| 1	| f__Lachnospiraceae
 FGB1546	| 1	| f__Tissierellia_unclassified
-FGB1547	| 3	| f__Firmicutes_unclassified, f__Peptoniphilaceae, f__Clostridiales_unclassified
-FGB1565	| 2	| f__Pelagibacteraceae, f__Pelagibacterales_unclassified
+FGB1547	| 3	| f__Clostridiales_unclassified, f__Peptoniphilaceae, f__Firmicutes_unclassified
+FGB1565	| 2	| f__Pelagibacterales_unclassified, f__Pelagibacteraceae
 FGB1573	| 2	| f__Enterobacteriaceae, f__Morganellaceae
 FGB1574	| 1	| f__Vibrionaceae
-FGB1576	| 4	| f__Gammaproteobacteria_unclassified, f__Enterobacteriaceae, f__Erwiniaceae, f__Legionellaceae
-FGB1577	| 5	| f__Bacteria_unclassified, f__Gammaproteobacteria_unclassified, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae
+FGB1576	| 4	| f__Gammaproteobacteria_unclassified, f__Erwiniaceae, f__Legionellaceae, f__Enterobacteriaceae
+FGB1577	| 5	| f__Gammaproteobacteria_unclassified, f__Bacteria_unclassified, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae
 FGB1579	| 2	| f__Flavobacteriales_unclassified, f__Blattabacteriaceae
 FGB1580	| 1	| f__Rhizobiales_unclassified
-FGB1581	| 3	| f__Oxalobacteraceae, f__Betaproteobacteria_unclassified, f__Halomonadaceae
+FGB1581	| 3	| f__Oxalobacteraceae, f__Halomonadaceae, f__Betaproteobacteria_unclassified
 FGB1588	| 2	| f__Holosporaceae, f__Candidatus_Midichloriaceae
 FGB1589	| 1	| f__Rickettsiaceae
 FGB1590	| 1	| f__Rhodospirillaceae
@@ -316,12 +316,12 @@ FGB1627	| 1	| f__Mycoplasmataceae
 FGB1628	| 1	| f__Mycoplasmataceae
 FGB1629	| 1	| f__Mycoplasmataceae
 FGB1631	| 1	| f__Mycoplasmataceae
-FGB1632	| 4	| f__Acholeplasmataceae, f__Mycoplasmataceae, f__Spiroplasmataceae, f__Entomoplasmataceae
+FGB1632	| 4	| f__Spiroplasmataceae, f__Entomoplasmataceae, f__Mycoplasmataceae, f__Acholeplasmataceae
 FGB1633	| 1	| f__Leuconostocaceae
 FGB1638	| 1	| f__Francisellaceae
 FGB1680	| 1	| f__Rhizobiales_unclassified
 FGB1687	| 1	| f__Candidatus_Nanopelagicaceae
-FGB1688	| 2	| f__Actinobacteria_unclassified, f__Candidatus_Nanopelagicaceae
+FGB1688	| 2	| f__Candidatus_Nanopelagicaceae, f__Actinobacteria_unclassified
 FGB1701	| 1	| f__Acidaminococcaceae
 FGB1702	| 1	| f__Acidaminococcaceae
 FGB1704	| 1	| f__Acidaminococcaceae
@@ -333,7 +333,7 @@ FGB1709	| 1	| f__Veillonellaceae
 FGB1711	| 1	| f__Veillonellaceae
 FGB1712	| 1	| f__Veillonellaceae
 FGB1717	| 1	| f__Selenomonadaceae
-FGB1719	| 2	| f__Chlamydiaceae, f__Mycoplasmataceae
+FGB1719	| 2	| f__Mycoplasmataceae, f__Chlamydiaceae
 FGB1720	| 1	| f__Mycoplasmataceae
 FGB1721	| 1	| f__Mycoplasmataceae
 FGB1723	| 1	| f__Brachyspiraceae
@@ -347,36 +347,36 @@ FGB1734	| 1	| f__Lachnospiraceae
 FGB1735	| 1	| f__Lachnospiraceae
 FGB1737	| 1	| f__Peptostreptococcaceae
 FGB1738	| 2	| f__Tissierellaceae, f__Tissierellales_unclassified
-FGB1742	| 4	| f__Tissierellaceae, f__Actinomycetaceae, f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1742	| 4	| f__Clostridiales_unclassified, f__Clostridiaceae, f__Tissierellaceae, f__Actinomycetaceae
 FGB1743	| 1	| f__Clostridiaceae
-FGB1744	| 2	| f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1744	| 2	| f__Clostridiales_unclassified, f__Clostridiaceae
 FGB1746	| 1	| f__Clostridiaceae
 FGB1747	| 1	| f__Clostridiaceae
 FGB1748	| 1	| f__Clostridiaceae
 FGB1749	| 1	| f__Eubacteriaceae
-FGB1751	| 3	| f__Lachnospiraceae, f__Bacillaceae, f__Clostridiaceae
-FGB1752	| 5	| f__Gottschalkiaceae, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Clostridiaceae, f__Erysipelotrichaceae
+FGB1751	| 3	| f__Lachnospiraceae, f__Clostridiaceae, f__Bacillaceae
+FGB1752	| 5	| f__Clostridiaceae, f__Erysipelotrichaceae, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Gottschalkiaceae
 FGB1753	| 1	| f__Peptostreptococcaceae
-FGB1754	| 2	| f__Clostridiaceae, f__Clostridiales_unclassified
-FGB1755	| 3	| f__Aerococcaceae, f__Eubacteriaceae, f__Clostridiaceae
+FGB1754	| 2	| f__Clostridiales_unclassified, f__Clostridiaceae
+FGB1755	| 3	| f__Clostridiaceae, f__Eubacteriaceae, f__Aerococcaceae
 FGB1757	| 1	| f__Clostridiaceae
 FGB1803	| 1	| f__Peptostreptococcaceae
-FGB1804	| 5	| f__Peptoniphilaceae, f__Clostridiales_Family_XIII_Incertae_Sedis, f__Peptostreptococcaceae, f__Lachnospiraceae, f__Erysipelotrichaceae
+FGB1804	| 5	| f__Peptoniphilaceae, f__Peptostreptococcaceae, f__Erysipelotrichaceae, f__Lachnospiraceae, f__Clostridiales_Family_XIII_Incertae_Sedis
 FGB1815	| 2	| f__Peptoniphilaceae, f__Aerococcaceae
-FGB1817	| 2	| f__Lachnospiraceae, f__Peptostreptococcaceae
+FGB1817	| 2	| f__Peptostreptococcaceae, f__Lachnospiraceae
 FGB1818	| 2	| f__Peptoniphilaceae, f__Tissierellia_unclassified
 FGB1819	| 1	| f__Peptoniphilaceae
-FGB1820	| 5	| f__Peptoniphilaceae, f__Hungateiclostridiaceae, f__Clostridiales_Family_XIII_Incertae_Sedis, f__Clostridiales_unclassified, f__Erysipelotrichaceae
-FGB1821	| 2	| f__Peptoniphilaceae, f__Clostridiales_unclassified
+FGB1820	| 5	| f__Peptoniphilaceae, f__Hungateiclostridiaceae, f__Erysipelotrichaceae, f__Clostridiales_Family_XIII_Incertae_Sedis, f__Clostridiales_unclassified
+FGB1821	| 2	| f__Clostridiales_unclassified, f__Peptoniphilaceae
 FGB1822	| 1	| f__Clostridiales_unclassified
 FGB1823	| 1	| f__Tissierellia_unclassified
 FGB1825	| 2	| f__Peptoniphilaceae, f__Clostridiaceae
 FGB1828	| 1	| f__Erysipelotrichaceae
-FGB1831	| 3	| f__Lactobacillaceae, f__Ruminococcaceae, f__Erysipelotrichaceae
-FGB1832	| 2	| f__Firmicutes_unclassified, f__Erysipelotrichaceae
-FGB1833	| 4	| f__Clostridiaceae, f__Chlamydiaceae, f__Eubacteriaceae, f__Erysipelotrichaceae
+FGB1831	| 3	| f__Lactobacillaceae, f__Erysipelotrichaceae, f__Ruminococcaceae
+FGB1832	| 2	| f__Erysipelotrichaceae, f__Firmicutes_unclassified
+FGB1833	| 4	| f__Chlamydiaceae, f__Erysipelotrichaceae, f__Clostridiaceae, f__Eubacteriaceae
 FGB1840	| 1	| f__Erysipelotrichaceae
-FGB1841	| 2	| f__Ruminococcaceae, f__Erysipelotrichaceae
+FGB1841	| 2	| f__Erysipelotrichaceae, f__Ruminococcaceae
 FGB1845	| 1	| f__Erysipelotrichaceae
 FGB1846	| 1	| f__Tenericutes_unclassified
 FGB1849	| 1	| f__Acholeplasmataceae
@@ -396,7 +396,7 @@ FGB1890	| 1	| f__Alicyclobacillaceae
 FGB1891	| 1	| f__Clostridiales_Family_XVI_Incertae_Sedis
 FGB1892	| 1	| f__Thermoanaerobacteraceae
 FGB1893	| 1	| f__Thermoanaerobacteraceae
-FGB1894	| 2	| f__Heliobacteriaceae, f__Thermoanaerobacteraceae
+FGB1894	| 2	| f__Thermoanaerobacteraceae, f__Heliobacteriaceae
 FGB1895	| 2	| f__Peptococcaceae, f__Thermoanaerobacteraceae
 FGB1897	| 1	| f__Carnobacteriaceae
 FGB1898	| 1	| f__Carnobacteriaceae
@@ -414,11 +414,11 @@ FGB1912	| 1	| f__Lactobacillaceae
 FGB1913	| 1	| f__Lactobacillaceae
 FGB1915	| 1	| f__Lactobacillaceae
 FGB1916	| 1	| f__Lactobacillaceae
-FGB1917	| 2	| f__Bacteria_unclassified, f__Lactobacillaceae
+FGB1917	| 2	| f__Lactobacillaceae, f__Bacteria_unclassified
 FGB1918	| 1	| f__Lactobacillaceae
 FGB1920	| 2	| f__Oscillospiraceae, f__Lachnospiraceae
-FGB1921	| 7	| f__Eubacteriaceae, f__Clostridiales_unclassified, f__Ruminococcaceae, f__Lachnospiraceae, f__Christensenellaceae, f__Clostridiaceae, f__Erysipelotrichaceae
-FGB1922	| 8	| f__Bacteria_unclassified, f__Eubacteriaceae, f__Hungateiclostridiaceae, f__Clostridiaceae, f__Oscillospiraceae, f__Lachnospiraceae, f__Firmicutes_unclassified, f__Ruminococcaceae
+FGB1921	| 7	| f__Clostridiaceae, f__Eubacteriaceae, f__Erysipelotrichaceae, f__Lachnospiraceae, f__Clostridiales_unclassified, f__Ruminococcaceae, f__Christensenellaceae
+FGB1922	| 8	| f__Clostridiaceae, f__Eubacteriaceae, f__Oscillospiraceae, f__Hungateiclostridiaceae, f__Lachnospiraceae, f__Bacteria_unclassified, f__Firmicutes_unclassified, f__Ruminococcaceae
 FGB1923	| 1	| f__Lachnospiraceae
 FGB1924	| 2	| f__Bacillales_unclassified, f__Staphylococcaceae
 FGB1927	| 1	| f__Thermoanaerobacteraceae
@@ -426,7 +426,7 @@ FGB1928	| 1	| f__Paenibacillaceae
 FGB1929	| 1	| f__Paenibacillaceae
 FGB1930	| 1	| f__Paenibacillaceae
 FGB1931	| 1	| f__Paenibacillaceae
-FGB1933	| 2	| f__Paenibacillaceae, f__Bacillaceae
+FGB1933	| 2	| f__Bacillaceae, f__Paenibacillaceae
 FGB1934	| 1	| f__Paenibacillaceae
 FGB1936	| 1	| f__Paenibacillaceae
 FGB1937	| 1	| f__Paenibacillaceae
@@ -435,37 +435,37 @@ FGB1939	| 1	| f__Paenibacillaceae
 FGB1940	| 1	| f__Paenibacillaceae
 FGB1941	| 1	| f__Paenibacillaceae
 FGB1942	| 1	| f__Paenibacillaceae
-FGB1943	| 2	| f__Paenibacillaceae, f__Bacillaceae
+FGB1943	| 2	| f__Bacillaceae, f__Paenibacillaceae
 FGB1944	| 1	| f__Carnobacteriaceae
-FGB1946	| 2	| f__Bacillaceae, f__Planococcaceae
+FGB1946	| 2	| f__Planococcaceae, f__Bacillaceae
 FGB1948	| 1	| f__Planococcaceae
 FGB1949	| 1	| f__Listeriaceae
 FGB1950	| 1	| f__Listeriaceae
 FGB1951	| 1	| f__Bacillaceae
 FGB1952	| 1	| f__Bacillaceae
-FGB1953	| 3	| f__Bacillaceae, f__Nocardiaceae, f__Planococcaceae
+FGB1953	| 3	| f__Planococcaceae, f__Nocardiaceae, f__Bacillaceae
 FGB1954	| 1	| f__Planococcaceae
-FGB1955	| 2	| f__Bacillaceae, f__Planococcaceae
+FGB1955	| 2	| f__Planococcaceae, f__Bacillaceae
 FGB1956	| 1	| f__Bacillaceae
 FGB1957	| 1	| f__Bacillaceae
 FGB1958	| 1	| f__Bacillaceae
-FGB1959	| 4	| f__Bacteria_unclassified, f__Bacillaceae, f__Micrococcaceae, f__Bacilli_unclassified
+FGB1959	| 4	| f__Bacteria_unclassified, f__Bacilli_unclassified, f__Bacillaceae, f__Micrococcaceae
 FGB1960	| 1	| f__Bacillaceae
 FGB1961	| 1	| f__Bacillaceae
 FGB1962	| 1	| f__Bacillaceae
 FGB1963	| 1	| f__Bacillaceae
 FGB1964	| 1	| f__Bacillaceae
-FGB1965	| 3	| f__Bacillaceae, f__Planococcaceae, f__Shewanellaceae
+FGB1965	| 3	| f__Planococcaceae, f__Bacillaceae, f__Shewanellaceae
 FGB1966	| 1	| f__Staphylococcaceae
 FGB1967	| 1	| f__Bacillaceae
 FGB1968	| 1	| f__Staphylococcaceae
 FGB1969	| 1	| f__Aerococcaceae
 FGB1970	| 2	| f__Bacillales_unclassified, f__Staphylococcaceae
 FGB1971	| 1	| f__Carnobacteriaceae
-FGB1972	| 4	| f__Carnobacteriaceae, f__Aerococcaceae, f__Clostridiaceae, f__Clostridiales_unclassified
+FGB1972	| 4	| f__Clostridiales_unclassified, f__Clostridiaceae, f__Carnobacteriaceae, f__Aerococcaceae
 FGB1973	| 2	| f__Carnobacteriaceae, f__Aerococcaceae
 FGB1974	| 1	| f__Carnobacteriaceae
-FGB1975	| 6	| f__Carnobacteriaceae, f__Aerococcaceae, f__Bacillaceae, f__Lactobacillaceae, f__Enterococcaceae, f__Streptococcaceae
+FGB1975	| 6	| f__Bacillaceae, f__Enterococcaceae, f__Aerococcaceae, f__Lactobacillaceae, f__Carnobacteriaceae, f__Streptococcaceae
 FGB1976	| 1	| f__Streptococcaceae
 FGB1978	| 1	| f__Aerococcaceae
 FGB1979	| 1	| f__Carnobacteriaceae
@@ -477,10 +477,10 @@ FGB1991	| 1	| f__Bacillaceae
 FGB1992	| 1	| f__Bacillaceae
 FGB1993	| 1	| f__Bacillaceae
 FGB1994	| 1	| f__Bacillaceae
-FGB1995	| 2	| f__Bacillaceae, f__Sporolactobacillaceae
+FGB1995	| 2	| f__Sporolactobacillaceae, f__Bacillaceae
 FGB1996	| 1	| f__Bacillales_unclassified
 FGB1997	| 1	| f__Bacillales_unclassified
-FGB1998	| 2	| f__Bacillaceae, f__Planococcaceae
+FGB1998	| 2	| f__Planococcaceae, f__Bacillaceae
 FGB1999	| 2	| f__Bacillaceae, f__Sporolactobacillaceae
 FGB2000	| 1	| f__Bacillaceae
 FGB2001	| 1	| f__Bacillaceae
@@ -494,7 +494,7 @@ FGB2022	| 2	| f__Peptococcaceae, f__Thermoanaerobacteraceae
 FGB2023	| 1	| f__Peptococcaceae
 FGB2032	| 1	| f__Balneolaceae
 FGB2034	| 1	| f__Chlorobiaceae
-FGB2043	| 7	| f__Hungateiclostridiaceae, f__Tissierellia_unclassified, f__Ruminococcaceae, f__Thermoanaerobacterales_Family_IV_Incertae_Sedis, f__Lachnospiraceae, f__Syntrophomonadaceae, f__Clostridiaceae
+FGB2043	| 7	| f__Clostridiaceae, f__Syntrophomonadaceae, f__Hungateiclostridiaceae, f__Lachnospiraceae, f__Thermoanaerobacterales_Family_IV_Incertae_Sedis, f__Tissierellia_unclassified, f__Ruminococcaceae
 FGB2045	| 1	| f__Peptostreptococcaceae
 FGB2054	| 1	| f__Synergistaceae
 FGB2059	| 1	| f__Acidimicrobiaceae
@@ -504,14 +504,14 @@ FGB2072	| 1	| f__Clostridiales_Family_XVII_Incertae_Sedis
 FGB2073	| 1	| f__Natranaerobiaceae
 FGB2074	| 1	| f__Bacillales_unclassified
 FGB2075	| 1	| f__Clostridiaceae
-FGB2076	| 2	| f__Clostridiaceae, f__Clostridiales_unclassified
+FGB2076	| 2	| f__Clostridiales_unclassified, f__Clostridiaceae
 FGB2078	| 2	| f__Lachnospiraceae, f__Clostridiaceae
 FGB2083	| 1	| f__Thermoanaerobacterales_Family_III_Incertae_Sedis
 FGB2084	| 1	| f__Dictyoglomaceae
 FGB2085	| 2	| f__Thermoanaerobacteraceae, f__Thermoanaerobacterales_Family_III_Incertae_Sedis
 FGB2086	| 1	| f__Coprothermobacteraceae
 FGB2087	| 2	| f__Thermoanaerobacteraceae, f__Thermoanaerobacterales_Family_III_Incertae_Sedis
-FGB2093	| 2	| f__Firmicutes_unclassified, f__Clostridiales_unclassified
+FGB2093	| 2	| f__Clostridiales_unclassified, f__Firmicutes_unclassified
 FGB2097	| 1	| f__Halanaerobiaceae
 FGB2098	| 1	| f__Halobacteroidaceae
 FGB2099	| 1	| f__Halobacteroidaceae
@@ -528,9 +528,9 @@ FGB2199	| 1	| f__Desulfuromonadaceae
 FGB2203	| 2	| f__Geobacteraceae, f__Desulfuromonadaceae
 FGB2205	| 2	| f__Geobacteraceae, f__Desulfuromonadaceae
 FGB2206	| 1	| f__Geobacteraceae
-FGB2210	| 10	| f__Syntrophobacteraceae, f__Dehalococcoidia_unclassified, f__Desulfobulbaceae, f__Desulfarculaceae, f__Kiritimatiellaceae, f__Desulfohalobiaceae, f__Geobacteraceae, f__Shewanellaceae, f__Desulfovibrionaceae, f__Desulfobacteraceae
-FGB2211	| 2	| f__Deltaproteobacteria_unclassified, f__Desulfobulbaceae
-FGB2239	| 2	| f__Desulfobacteraceae, f__Cardiobacteriaceae
+FGB2210	| 10	| f__Desulfobulbaceae, f__Desulfohalobiaceae, f__Desulfarculaceae, f__Desulfovibrionaceae, f__Geobacteraceae, f__Desulfobacteraceae, f__Syntrophobacteraceae, f__Kiritimatiellaceae, f__Shewanellaceae, f__Dehalococcoidia_unclassified
+FGB2211	| 2	| f__Desulfobulbaceae, f__Deltaproteobacteria_unclassified
+FGB2239	| 2	| f__Cardiobacteriaceae, f__Desulfobacteraceae
 FGB2242	| 1	| f__Desulfobacteraceae
 FGB2243	| 1	| f__Syntrophobacteraceae
 FGB2245	| 1	| f__Desulfobacteraceae
@@ -544,7 +544,7 @@ FGB2271	| 1	| f__Acidobacteriaceae
 FGB2276	| 1	| f__Nitrospiraceae
 FGB2277	| 1	| f__Nitrospiraceae
 FGB2293	| 1	| f__Kiloniellaceae
-FGB2302	| 3	| f__Nocardiaceae, f__Burkholderiaceae, f__Nitrospiraceae
+FGB2302	| 3	| f__Nocardiaceae, f__Nitrospiraceae, f__Burkholderiaceae
 FGB2308	| 1	| f__Gammaproteobacteria_unclassified
 FGB2318	| 1	| f__Kangiellaceae
 FGB2327	| 1	| f__Porticoccaceae
@@ -566,13 +566,13 @@ FGB2429	| 1	| f__Oxalobacteraceae
 FGB2430	| 1	| f__Oxalobacteraceae
 FGB2432	| 1	| f__Gallionellaceae
 FGB2433	| 1	| f__Cardiobacteriaceae
-FGB2434	| 2	| f__Helicobacteraceae, f__Neisseriaceae
+FGB2434	| 2	| f__Neisseriaceae, f__Helicobacteraceae
 FGB2435	| 1	| f__Methylophilaceae
 FGB2437	| 1	| f__Neisseriaceae
 FGB2438	| 3	| f__Oxalobacteraceae, f__Burkholderiaceae, f__Chromobacteriaceae
 FGB2439	| 1	| f__Ferrovaceae
 FGB2440	| 1	| f__Alcaligenaceae
-FGB2441	| 2	| f__Betaproteobacteria_unclassified, f__Alcaligenaceae
+FGB2441	| 2	| f__Alcaligenaceae, f__Betaproteobacteria_unclassified
 FGB2444	| 1	| f__Bacteria_unclassified
 FGB2459	| 1	| f__Idiomarinaceae
 FGB2460	| 1	| f__Idiomarinaceae
@@ -580,51 +580,51 @@ FGB2461	| 1	| f__Idiomarinaceae
 FGB2462	| 1	| f__Alteromonadaceae
 FGB2463	| 1	| f__Alteromonadaceae
 FGB2466	| 1	| f__Alteromonadaceae
-FGB2467	| 2	| f__Alteromonadaceae, f__Pseudoalteromonadaceae
+FGB2467	| 2	| f__Pseudoalteromonadaceae, f__Alteromonadaceae
 FGB2468	| 1	| f__Gammaproteobacteria_unclassified
-FGB2469	| 3	| f__Idiomarinaceae, f__Gammaproteobacteria_unclassified, f__Alcaligenaceae
-FGB2470	| 2	| f__Burkholderiales_unclassified, f__Comamonadaceae
-FGB2471	| 2	| f__Prochlorotrichaceae, f__Spirulinaceae
+FGB2469	| 3	| f__Gammaproteobacteria_unclassified, f__Alcaligenaceae, f__Idiomarinaceae
+FGB2470	| 2	| f__Comamonadaceae, f__Burkholderiales_unclassified
+FGB2471	| 2	| f__Spirulinaceae, f__Prochlorotrichaceae
 FGB2475	| 1	| f__Psychromonadaceae
 FGB2476	| 1	| f__Orbaceae
 FGB2477	| 2	| f__Pasteurellaceae, f__Pseudomonadaceae
-FGB2478	| 3	| f__Alteromonadaceae, f__Chromatiaceae, f__Gammaproteobacteria_unclassified
+FGB2478	| 3	| f__Gammaproteobacteria_unclassified, f__Alteromonadaceae, f__Chromatiaceae
 FGB2479	| 1	| f__Vibrionaceae
 FGB2481	| 1	| f__Enterobacterales_unclassified
 FGB2482	| 3	| f__Aeromonadaceae, f__Gammaproteobacteria_unclassified, f__Ferrimonadaceae
-FGB2483	| 8	| f__Enterobacteriaceae, f__Hafniaceae, f__Budviciaceae, f__Yersiniaceae, f__Enterobacterales_unclassified, f__Pectobacteriaceae, f__Erwiniaceae, f__Morganellaceae
+FGB2483	| 8	| f__Budviciaceae, f__Hafniaceae, f__Morganellaceae, f__Yersiniaceae, f__Erwiniaceae, f__Enterobacteriaceae, f__Pectobacteriaceae, f__Enterobacterales_unclassified
 FGB2486	| 1	| f__Moritellaceae
 FGB2487	| 2	| f__Ferrimonadaceae, f__Shewanellaceae
-FGB2490	| 4	| f__Moraxellaceae, f__Rhizobiaceae, f__Bacillaceae, f__Yersiniaceae
+FGB2490	| 4	| f__Rhizobiaceae, f__Moraxellaceae, f__Bacillaceae, f__Yersiniaceae
 FGB2491	| 1	| f__Moraxellaceae
 FGB2493	| 1	| f__Moraxellaceae
 FGB2494	| 1	| f__Moraxellaceae
 FGB2500	| 1	| f__Candidatus_Competibacteraceae
 FGB2504	| 1	| f__Acidiferrobacteraceae
 FGB2506	| 1	| f__Rhodospirillaceae
-FGB2509	| 2	| f__Parvularculaceae, f__Hyphomonadaceae
+FGB2509	| 2	| f__Hyphomonadaceae, f__Parvularculaceae
 FGB2517	| 1	| f__Rhodobacteraceae
-FGB2519	| 2	| f__Rhodobacteraceae, f__Hyphomonadaceae
+FGB2519	| 2	| f__Hyphomonadaceae, f__Rhodobacteraceae
 FGB2526	| 1	| f__Rhodobacteraceae
 FGB2527	| 1	| f__Rhodobacteraceae
 FGB2531	| 1	| f__Acetobacteraceae
 FGB2532	| 1	| f__Acetobacteraceae
 FGB2533	| 1	| f__Rhodospirillaceae
-FGB2534	| 2	| f__Rhodospirillaceae, f__Alphaproteobacteria_unclassified
-FGB2535	| 2	| f__Parvularculaceae, f__Alphaproteobacteria_unclassified
+FGB2534	| 2	| f__Alphaproteobacteria_unclassified, f__Rhodospirillaceae
+FGB2535	| 2	| f__Alphaproteobacteria_unclassified, f__Parvularculaceae
 FGB2537	| 2	| f__Alphaproteobacteria_unclassified, f__Caulobacteraceae
 FGB2540	| 2	| f__Hyphomicrobiaceae, f__Rhizobiales_unclassified
 FGB2541	| 1	| f__Hyphomicrobiaceae
 FGB2542	| 2	| f__Rhodobiaceae, f__Alphaproteobacteria_unclassified
 FGB2543	| 1	| f__Hyphomicrobiaceae
 FGB2544	| 1	| f__Hyphomicrobiaceae
-FGB2547	| 23	| f__Brucellaceae, f__Hyphomicrobiaceae, f__Alphaproteobacteria_unclassified, f__Notoacmeibacteraceae, f__Cohaesibacteraceae, f__Methylobacteriaceae, f__Acetobacteraceae, f__Phyllobacteriaceae, f__Rhodobiaceae, f__Bacteria_unclassified, f__Bradyrhizobiaceae, f__Rhizobiales_unclassified, f__Aurantimonadaceae, f__Geminicoccaceae, f__Salinarimonadaceae, f__Rhodobacteraceae, f__Methylocystaceae, f__Ancalomicrobiaceae, f__Xanthobacteraceae, f__Rhodospirillaceae, f__Chelatococcaceae, f__Rhodospirillales_unclassified, f__Rhizobiaceae
+FGB2547	| 23	| f__Acetobacteraceae, f__Notoacmeibacteraceae, f__Bradyrhizobiaceae, f__Geminicoccaceae, f__Rhodospirillales_unclassified, f__Salinarimonadaceae, f__Chelatococcaceae, f__Methylobacteriaceae, f__Rhizobiaceae, f__Xanthobacteraceae, f__Bacteria_unclassified, f__Methylocystaceae, f__Aurantimonadaceae, f__Ancalomicrobiaceae, f__Rhodospirillaceae, f__Phyllobacteriaceae, f__Hyphomicrobiaceae, f__Rhodobacteraceae, f__Rhizobiales_unclassified, f__Alphaproteobacteria_unclassified, f__Rhodobiaceae, f__Brucellaceae, f__Cohaesibacteraceae
 FGB2548	| 2	| f__Beijerinckiaceae, f__Methylocystaceae
-FGB2549	| 22	| f__Hyphomicrobiaceae, f__Alphaproteobacteria_unclassified, f__Caulobacteraceae, f__Cohaesibacteraceae, f__Methylobacteriaceae, f__Acetobacteraceae, f__Aestuariivirgaceae, f__Rhodobiaceae, f__Bacteria_unclassified, f__Bradyrhizobiaceae, f__Rhizobiales_unclassified, f__Aurantimonadaceae, f__Salinarimonadaceae, f__Rhodobacteraceae, f__Methylocystaceae, f__Xanthobacteraceae, f__Rhodospirillaceae, f__Beijerinckiaceae, f__Chelatococcaceae, f__Rhodospirillales_unclassified, f__Rhizobiaceae, f__Roseiarcaceae
+FGB2549	| 22	| f__Acetobacteraceae, f__Bradyrhizobiaceae, f__Rhodospirillales_unclassified, f__Salinarimonadaceae, f__Chelatococcaceae, f__Methylobacteriaceae, f__Rhizobiaceae, f__Xanthobacteraceae, f__Methylocystaceae, f__Bacteria_unclassified, f__Aurantimonadaceae, f__Rhodospirillaceae, f__Hyphomicrobiaceae, f__Rhodobacteraceae, f__Rhizobiales_unclassified, f__Alphaproteobacteria_unclassified, f__Rhodobiaceae, f__Aestuariivirgaceae, f__Cohaesibacteraceae, f__Caulobacteraceae, f__Roseiarcaceae, f__Beijerinckiaceae
 FGB2551	| 1	| f__Erythrobacteraceae
-FGB2552	| 7	| f__Sphingomonadales_unclassified, f__Nostocaceae, f__Bacillaceae, f__Erythrobacteraceae, f__Alphaproteobacteria_unclassified, f__Sphingomonadaceae, f__Caulobacteraceae
+FGB2552	| 7	| f__Sphingomonadales_unclassified, f__Bacillaceae, f__Alphaproteobacteria_unclassified, f__Nostocaceae, f__Erythrobacteraceae, f__Sphingomonadaceae, f__Caulobacteraceae
 FGB2553	| 1	| f__Hyphomonadaceae
-FGB2554	| 3	| f__Alphaproteobacteria_unclassified, f__Caulobacteraceae, f__Sphingomonadaceae
+FGB2554	| 3	| f__Alphaproteobacteria_unclassified, f__Sphingomonadaceae, f__Caulobacteraceae
 FGB2556	| 2	| f__Rhodobiaceae, f__Rhodospirillaceae
 FGB2563	| 2	| f__Gammaproteobacteria_unclassified, f__Halomonadaceae
 FGB2564	| 1	| f__Spongiibacteraceae
@@ -640,18 +640,18 @@ FGB2577	| 1	| f__Salinisphaeraceae
 FGB2581	| 1	| f__Ectothiorhodospiraceae
 FGB2583	| 5	| f__Thioalkalispiraceae, f__Gammaproteobacteria_unclassified, f__Candidatus_Competibacteraceae, f__Chromatiales_unclassified, f__Ectothiorhodospiraceae
 FGB2584	| 1	| f__Chromatiaceae
-FGB2585	| 2	| f__Ectothiorhodospiraceae, f__Gammaproteobacteria_unclassified
-FGB2589	| 2	| f__Salinisphaeraceae, f__Ectothiorhodospiraceae
-FGB2590	| 5	| f__Xanthomonadaceae, f__Burkholderiaceae, f__Gammaproteobacteria_unclassified, f__Micrococcaceae, f__Pseudomonadaceae
+FGB2585	| 2	| f__Gammaproteobacteria_unclassified, f__Ectothiorhodospiraceae
+FGB2589	| 2	| f__Ectothiorhodospiraceae, f__Salinisphaeraceae
+FGB2590	| 5	| f__Burkholderiaceae, f__Micrococcaceae, f__Gammaproteobacteria_unclassified, f__Pseudomonadaceae, f__Xanthomonadaceae
 FGB2592	| 1	| f__Sinobacteraceae
 FGB2593	| 2	| f__Xanthomonadaceae, f__Rhodanobacteraceae
-FGB2594	| 18	| f__Bacteria_unclassified, f__Neisseriaceae, f__Burkholderiaceae, f__Sterolibacteriaceae, f__Alcaligenaceae, f__Comamonadaceae, f__Gallionellaceae, f__Zoogloeaceae, f__Oxalobacteraceae, f__Chromobacteriaceae, f__Thiobacillaceae, f__Rhodocyclaceae, f__Betaproteobacteria_unclassified, f__Burkholderiales_unclassified, f__Pseudomonadaceae, f__Rhodobacteraceae, f__Azonexaceae, f__Hydrogenophilaceae
+FGB2594	| 18	| f__Comamonadaceae, f__Burkholderiaceae, f__Rhodobacteraceae, f__Betaproteobacteria_unclassified, f__Gallionellaceae, f__Azonexaceae, f__Oxalobacteraceae, f__Bacteria_unclassified, f__Chromobacteriaceae, f__Pseudomonadaceae, f__Sterolibacteriaceae, f__Rhodocyclaceae, f__Neisseriaceae, f__Zoogloeaceae, f__Burkholderiales_unclassified, f__Alcaligenaceae, f__Hydrogenophilaceae, f__Thiobacillaceae
 FGB2595	| 1	| f__Burkholderiaceae
 FGB2597	| 1	| f__Betaproteobacteria_unclassified
 FGB2598	| 2	| f__Gallionellaceae, f__Thiobacillaceae
-FGB2603	| 7	| f__Myxococcales_unclassified, f__Gemmatimonadaceae, f__Sandaracinaceae, f__Nannocystaceae, f__Anaeromyxobacteraceae, f__Polyangiaceae, f__Kofleriaceae
-FGB2604	| 3	| f__Archangiaceae, f__Myxococcaceae, f__Polyangiaceae
-FGB2609	| 3	| f__Patulibacteraceae, f__Thermoleophilaceae, f__Conexibacteraceae
+FGB2603	| 7	| f__Gemmatimonadaceae, f__Anaeromyxobacteraceae, f__Nannocystaceae, f__Myxococcales_unclassified, f__Kofleriaceae, f__Polyangiaceae, f__Sandaracinaceae
+FGB2604	| 3	| f__Archangiaceae, f__Polyangiaceae, f__Myxococcaceae
+FGB2609	| 3	| f__Thermoleophilaceae, f__Conexibacteraceae, f__Patulibacteraceae
 FGB2623	| 1	| f__Thiotrichaceae
 FGB2637	| 1	| f__Pseudomonadaceae
 FGB2638	| 1	| f__Oceanospirillaceae
@@ -674,24 +674,24 @@ FGB2674	| 1	| f__Synechococcaceae
 FGB2677	| 1	| f__Pseudanabaenaceae
 FGB2680	| 1	| f__Oscillatoriaceae
 FGB2681	| 2	| f__Coleofasciculaceae, f__Microcoleaceae
-FGB2683	| 3	| f__Microcoleaceae, f__Spirulinaceae, f__Oscillatoriaceae
+FGB2683	| 3	| f__Spirulinaceae, f__Oscillatoriaceae, f__Microcoleaceae
 FGB2684	| 1	| f__Microcoleaceae
 FGB2685	| 2	| f__Microcoleaceae, f__Oscillatoriaceae
-FGB2686	| 2	| f__Microcoleaceae, f__Oscillatoriaceae
+FGB2686	| 2	| f__Oscillatoriaceae, f__Microcoleaceae
 FGB2688	| 1	| f__Nostocaceae
 FGB2689	| 1	| f__Hydrococcaceae
-FGB2690	| 5	| f__Merismopediaceae, f__Chroococcales_unclassified, f__Scytonemataceae, f__Chroococcaceae, f__Chroococcidiopsidaceae
+FGB2690	| 5	| f__Chroococcales_unclassified, f__Chroococcidiopsidaceae, f__Merismopediaceae, f__Scytonemataceae, f__Chroococcaceae
 FGB2691	| 1	| f__Calotrichaceae
 FGB2692	| 2	| f__Aphanizomenonaceae, f__Nostocaceae
-FGB2693	| 12	| f__Calotrichaceae, f__Aphanizomenonaceae, f__Nostocaceae, f__Chlorogloeopsidaceae, f__Cyanobacteria_unclassified, f__Fortieaceae, f__Scytonemataceae, f__Rivulariaceae, f__Tolypothrichaceae, f__Nostocales_unclassified, f__Symphyonemataceae, f__Hapalosiphonaceae
+FGB2693	| 12	| f__Symphyonemataceae, f__Nostocaceae, f__Scytonemataceae, f__Fortieaceae, f__Tolypothrichaceae, f__Calotrichaceae, f__Nostocales_unclassified, f__Hapalosiphonaceae, f__Chlorogloeopsidaceae, f__Aphanizomenonaceae, f__Rivulariaceae, f__Cyanobacteria_unclassified
 FGB2694	| 1	| f__Leptolyngbyaceae
 FGB2697	| 2	| f__Chroococcaceae, f__Cyanobacteriaceae
 FGB2700	| 1	| f__Microcystaceae
 FGB2701	| 1	| f__Aphanothecaceae
 FGB2702	| 2	| f__Synechococcaceae, f__Aphanothecaceae
-FGB2703	| 2	| f__Dermocarpellaceae, f__Chroococcaceae
+FGB2703	| 2	| f__Chroococcaceae, f__Dermocarpellaceae
 FGB2705	| 1	| f__Merismopediaceae
-FGB2706	| 3	| f__Synechococcaceae, f__Pseudanabaenaceae, f__Leptolyngbyaceae
+FGB2706	| 3	| f__Leptolyngbyaceae, f__Synechococcaceae, f__Pseudanabaenaceae
 FGB2709	| 2	| f__Burkholderiaceae, f__Betaproteobacteria_unclassified
 FGB2711	| 1	| f__Oceanospirillaceae
 FGB2712	| 1	| f__Oceanospirillaceae
@@ -705,11 +705,11 @@ FGB2728	| 2	| f__Alteromonadaceae, f__Cellvibrionaceae
 FGB2731	| 1	| f__Legionellaceae
 FGB2732	| 1	| f__Legionellaceae
 FGB2733	| 1	| f__Legionellaceae
-FGB2735	| 3	| f__Bacteria_unclassified, f__Methylococcaceae, f__Gammaproteobacteria_unclassified
-FGB2736	| 4	| f__Idiomarinaceae, f__Alteromonadaceae, f__Gammaproteobacteria_unclassified, f__Piscirickettsiaceae
+FGB2735	| 3	| f__Methylococcaceae, f__Gammaproteobacteria_unclassified, f__Bacteria_unclassified
+FGB2736	| 4	| f__Gammaproteobacteria_unclassified, f__Alteromonadaceae, f__Piscirickettsiaceae, f__Idiomarinaceae
 FGB2737	| 1	| f__Spirochaetaceae
 FGB2739	| 1	| f__Spirochaetaceae
-FGB2741	| 2	| f__Gottschalkiaceae, f__Thiotrichaceae
+FGB2741	| 2	| f__Thiotrichaceae, f__Gottschalkiaceae
 FGB2745	| 1	| f__Thiotrichaceae
 FGB2755	| 1	| f__Cellvibrionaceae
 FGB2759	| 1	| f__Oceanospirillaceae
@@ -719,7 +719,7 @@ FGB2767	| 2	| f__Spongiibacteraceae, f__Oceanospirillaceae
 FGB2775	| 2	| f__Zetaproteobacteria_unclassified, f__Mariprofundaceae
 FGB2778	| 1	| f__Chromatiaceae
 FGB2779	| 1	| f__Crenotrichaceae
-FGB2782	| 3	| f__Methylococcaceae, f__Thermithiobacillaceae, f__Thioalkalispiraceae
+FGB2782	| 3	| f__Methylococcaceae, f__Thioalkalispiraceae, f__Thermithiobacillaceae
 FGB2783	| 1	| f__Methylococcaceae
 FGB2784	| 1	| f__Methylococcaceae
 FGB2785	| 1	| f__Legionellaceae
@@ -735,21 +735,21 @@ FGB2817	| 1	| f__Pseudoalteromonadaceae
 FGB2818	| 1	| f__Pseudoalteromonadaceae
 FGB2891	| 1	| f__Caldicoprobacteraceae
 FGB2892	| 2	| f__Catabacteriaceae, f__Christensenellaceae
-FGB2991	| 3	| f__Bacteria_unclassified, f__Atopobiaceae, f__Coriobacteriaceae
-FGB2993	| 5	| f__Bacteria_unclassified, f__Eggerthellaceae, f__Coriobacteriales_unclassified, f__Atopobiaceae, f__Coriobacteriaceae
+FGB2991	| 3	| f__Atopobiaceae, f__Bacteria_unclassified, f__Coriobacteriaceae
+FGB2993	| 5	| f__Atopobiaceae, f__Eggerthellaceae, f__Coriobacteriales_unclassified, f__Bacteria_unclassified, f__Coriobacteriaceae
 FGB2998	| 1	| f__Ruminococcaceae
 FGB3001	| 1	| f__Ruminococcaceae
-FGB3014	| 2	| f__Clostridiaceae, f__Ruminococcaceae
-FGB3015	| 3	| f__Bacteria_unclassified, f__Clostridiaceae, f__Ruminococcaceae
-FGB3021	| 2	| f__Clostridia_unclassified, f__Ruminococcaceae
+FGB3014	| 2	| f__Ruminococcaceae, f__Clostridiaceae
+FGB3015	| 3	| f__Clostridiaceae, f__Bacteria_unclassified, f__Ruminococcaceae
+FGB3021	| 2	| f__Ruminococcaceae, f__Clostridia_unclassified
 FGB3046	| 1	| f__Ruminococcaceae
 FGB3049	| 1	| f__Ruminococcaceae
-FGB3052	| 3	| f__Clostridia_unclassified, f__Clostridiaceae, f__Ruminococcaceae
-FGB3056	| 4	| f__Clostridiaceae, f__Oscillospiraceae, f__Ruminococcaceae, f__Clostridiales_unclassified
+FGB3052	| 3	| f__Clostridiaceae, f__Clostridia_unclassified, f__Ruminococcaceae
+FGB3056	| 4	| f__Clostridiales_unclassified, f__Oscillospiraceae, f__Ruminococcaceae, f__Clostridiaceae
 FGB3057	| 1	| f__Ruminococcaceae
 FGB3058	| 1	| f__Ruminococcaceae
 FGB3067	| 1	| f__Clostridiales_unclassified
-FGB3076	| 2	| f__Desulfovibrionaceae, f__Desulfomicrobiaceae
+FGB3076	| 2	| f__Desulfomicrobiaceae, f__Desulfovibrionaceae
 FGB3078	| 1	| f__Desulfovibrionaceae
 FGB3082	| 2	| f__Tissierellaceae, f__Actinomycetaceae
 FGB3083	| 1	| f__Actinomycetaceae
@@ -760,28 +760,28 @@ FGB3087	| 1	| f__Synergistaceae
 FGB3089	| 1	| f__Synergistaceae
 FGB3090	| 1	| f__Rhodothermaceae
 FGB3091	| 2	| f__Rhodothermaceae, f__Rubricoccaceae
-FGB3092	| 2	| f__Rhodothermaceae, f__Salinibacteraceae
+FGB3092	| 2	| f__Salinibacteraceae, f__Rhodothermaceae
 FGB3105	| 1	| f__Microthrixaceae
-FGB3109	| 8	| f__Corynebacteriales_unclassified, f__Tsukamurellaceae, f__Segniliparaceae, f__Mycobacteriaceae, f__Nocardiaceae, f__Gordoniaceae, f__Dietziaceae, f__Thermoactinomycetaceae
+FGB3109	| 8	| f__Nocardiaceae, f__Tsukamurellaceae, f__Gordoniaceae, f__Mycobacteriaceae, f__Dietziaceae, f__Corynebacteriales_unclassified, f__Segniliparaceae, f__Thermoactinomycetaceae
 FGB3110	| 2	| f__Propionibacteriaceae, f__Bifidobacteriaceae
 FGB3111	| 1	| f__Actinomycetaceae
-FGB3112	| 2	| f__Propionibacteriaceae, f__Nocardioidaceae
+FGB3112	| 2	| f__Nocardioidaceae, f__Propionibacteriaceae
 FGB3113	| 2	| f__Dermatophilaceae, f__Actinomycetaceae
-FGB3115	| 37	| f__Dermatophilaceae, f__Streptosporangiaceae, f__Cryptosporangiaceae, f__Nocardioidaceae, f__Corynebacteriaceae, f__Nakamurellaceae, f__Frankiales_unclassified, f__Frankiaceae, f__Sporichthyaceae, f__Ruaniaceae, f__Glycomycetaceae, f__Dermacoccaceae, f__Micromonosporaceae, f__Catenulisporaceae, f__Promicromonosporaceae, f__Beutenbergiaceae, f__Cellulomonadaceae, f__Dermabacteraceae, f__Streptosporangiales_unclassified, f__Demequinaceae, f__Intrasporangiaceae, f__Motilibacteraceae, f__Nocardiopsaceae, f__Nocardiaceae, f__Kineosporiaceae, f__Actinobacteria_unclassified, f__Streptomycetaceae, f__Actinomycetales_unclassified, f__Geodermatophilaceae, f__Actinopolysporaceae, f__Actinospicaceae, f__Thermomonosporaceae, f__Pseudonocardiaceae, f__Jiangellaceae, f__Micrococcales_unclassified, f__Bogoriellaceae, f__Sanguibacteraceae
+FGB3115	| 37	| f__Micromonosporaceae, f__Thermomonosporaceae, f__Actinospicaceae, f__Streptosporangiaceae, f__Actinomycetales_unclassified, f__Intrasporangiaceae, f__Nocardiopsaceae, f__Streptosporangiales_unclassified, f__Nocardiaceae, f__Catenulisporaceae, f__Cryptosporangiaceae, f__Dermacoccaceae, f__Nakamurellaceae, f__Cellulomonadaceae, f__Frankiaceae, f__Frankiales_unclassified, f__Actinopolysporaceae, f__Actinobacteria_unclassified, f__Corynebacteriaceae, f__Kineosporiaceae, f__Promicromonosporaceae, f__Sanguibacteraceae, f__Beutenbergiaceae, f__Ruaniaceae, f__Glycomycetaceae, f__Dermatophilaceae, f__Demequinaceae, f__Streptomycetaceae, f__Bogoriellaceae, f__Motilibacteraceae, f__Jiangellaceae, f__Dermabacteraceae, f__Pseudonocardiaceae, f__Micrococcales_unclassified, f__Nocardioidaceae, f__Sporichthyaceae, f__Geodermatophilaceae
 FGB3117	| 2	| f__Microbacteriaceae, f__Micrococcaceae
-FGB3118	| 2	| f__Micrococcaceae, f__Brevibacteriaceae
-FGB3119	| 20	| f__Nocardioidaceae, f__Corynebacteriaceae, f__Dermacoccaceae, f__Promicromonosporaceae, f__Bacillaceae, f__Beutenbergiaceae, f__Propionibacteriaceae, f__Cellulomonadaceae, f__Dermabacteraceae, f__Intrasporangiaceae, f__Kineosporiaceae, f__Actinobacteria_unclassified, f__Actinomycetales_unclassified, f__Geodermatophilaceae, f__Mycobacteriaceae, f__Pseudonocardiaceae, f__Rhodospirillaceae, f__Micrococcaceae, f__Bogoriellaceae, f__Microbacteriaceae
-FGB3124	| 2	| f__Propionibacteriaceae, f__Nocardioidaceae
+FGB3118	| 2	| f__Brevibacteriaceae, f__Micrococcaceae
+FGB3119	| 20	| f__Mycobacteriaceae, f__Actinomycetales_unclassified, f__Intrasporangiaceae, f__Bacillaceae, f__Dermacoccaceae, f__Cellulomonadaceae, f__Propionibacteriaceae, f__Rhodospirillaceae, f__Corynebacteriaceae, f__Actinobacteria_unclassified, f__Promicromonosporaceae, f__Kineosporiaceae, f__Microbacteriaceae, f__Beutenbergiaceae, f__Bogoriellaceae, f__Dermabacteraceae, f__Pseudonocardiaceae, f__Micrococcaceae, f__Nocardioidaceae, f__Geodermatophilaceae
+FGB3124	| 2	| f__Nocardioidaceae, f__Propionibacteriaceae
 FGB3125	| 2	| f__Microbacteriaceae, f__Micrococcaceae
 FGB3126	| 1	| f__Micrococcaceae
 FGB3129	| 1	| f__Corynebacteriaceae
 FGB3130	| 1	| f__Corynebacteriaceae
 FGB3131	| 1	| f__Corynebacteriaceae
-FGB3132	| 2	| f__Corynebacteriaceae, f__Campylobacteraceae
+FGB3132	| 2	| f__Campylobacteraceae, f__Corynebacteriaceae
 FGB3133	| 1	| f__Actinomycetaceae
-FGB3134	| 4	| f__Sanguibacteraceae, f__Promicromonosporaceae, f__Dermacoccaceae, f__Actinomycetaceae
+FGB3134	| 4	| f__Dermacoccaceae, f__Promicromonosporaceae, f__Sanguibacteraceae, f__Actinomycetaceae
 FGB3135	| 1	| f__Actinomycetaceae
-FGB3136	| 4	| f__Dermabacteraceae, f__Ruaniaceae, f__Micrococcaceae, f__Actinomycetaceae
+FGB3136	| 4	| f__Ruaniaceae, f__Dermabacteraceae, f__Micrococcaceae, f__Actinomycetaceae
 FGB3137	| 1	| f__Actinomycetaceae
 FGB3138	| 2	| f__Propionibacteriaceae, f__Actinomycetaceae
 FGB3139	| 1	| f__Actinomycetaceae
@@ -811,7 +811,7 @@ FGB4070	| 1	| f__Dehalococcoidia_unclassified
 FGB4077	| 1	| f__Aquificaceae
 FGB4084	| 1	| f__Aquificaceae
 FGB4085	| 1	| f__Hydrogenothermaceae
-FGB4086	| 2	| f__Hydrogenothermaceae, f__Aquificaceae
+FGB4086	| 2	| f__Aquificaceae, f__Hydrogenothermaceae
 FGB4087	| 1	| f__Candidatus_Kryptonia_unclassified
 FGB4095	| 2	| f__Haliscomenobacteraceae, f__Oscillatoriaceae
 FGB4097	| 1	| f__Leptolyngbyaceae
@@ -859,7 +859,7 @@ FGB4353	| 1	| f__Candidatus_Saccharibacteria_unclassified
 FGB4357	| 1	| f__Candidatus_Saccharibacteria_unclassified
 FGB4361	| 1	| f__Candidatus_Saccharibacteria_unclassified
 FGB4679	| 1	| f__Helicobacteraceae
-FGB4740	| 2	| f__Clostridiaceae, f__Erysipelotrichaceae
+FGB4740	| 2	| f__Erysipelotrichaceae, f__Clostridiaceae
 FGB4788	| 1	| f__Hexamitidae
 FGB4789	| 1	| f__Malasseziaceae
 FGB4792	| 1	| f__Sarcocystidae
@@ -909,12 +909,12 @@ FGB5194	| 1	| f__Spongiibacteraceae
 FGB5195	| 1	| f__Hahellaceae
 FGB5203	| 1	| f__Psychromonadaceae
 FGB5214	| 1	| f__Salinisphaeraceae
-FGB5216	| 3	| f__Candidatus_Competibacteraceae, f__Ectothiorhodospiraceae, f__Gammaproteobacteria_unclassified
+FGB5216	| 3	| f__Candidatus_Competibacteraceae, f__Gammaproteobacteria_unclassified, f__Ectothiorhodospiraceae
 FGB5219	| 1	| f__Sinobacteraceae
 FGB5223	| 1	| f__Wenzhouxiangellaceae
 FGB5226	| 1	| f__Moraxellaceae
 FGB5231	| 1	| f__Oxalobacteraceae
-FGB5235	| 2	| f__Burkholderiaceae, f__Alcaligenaceae
+FGB5235	| 2	| f__Alcaligenaceae, f__Burkholderiaceae
 FGB5239	| 1	| f__Balneatrichaceae
 FGB5241	| 1	| f__Thiotrichaceae
 FGB5256	| 2	| f__Moritellaceae, f__Psychromonadaceae
@@ -924,7 +924,7 @@ FGB5292	| 1	| f__Chromobacteriaceae
 FGB5302	| 1	| f__Anaerolineaceae
 FGB5322	| 1	| f__Ruminococcaceae
 FGB5324	| 1	| f__Opitutaceae
-FGB5330	| 2	| f__Actinobacteria_unclassified, f__Nocardioidaceae
+FGB5330	| 2	| f__Nocardioidaceae, f__Actinobacteria_unclassified
 FGB5340	| 1	| f__Micrococcaceae
 FGB5344	| 1	| f__Corynebacteriaceae
 FGB5353	| 1	| f__Dermatophilaceae
@@ -934,17 +934,17 @@ FGB5404	| 2	| f__Brucellaceae, f__Rhizobiales_unclassified
 FGB5406	| 1	| f__Acetobacteraceae
 FGB5425	| 1	| f__Rhodobacteraceae
 FGB5437	| 1	| f__Parvularculaceae
-FGB5438	| 2	| f__Parvularculaceae, f__Hyphomonadaceae
+FGB5438	| 2	| f__Hyphomonadaceae, f__Parvularculaceae
 FGB5450	| 1	| f__Spirochaetaceae
 FGB5492	| 1	| f__Leptolyngbyaceae
 FGB5493	| 1	| f__Cyanobacteria_unclassified
-FGB5494	| 3	| f__Prochlorotrichaceae, f__Cyanobacteria_unclassified, f__Leptolyngbyaceae
+FGB5494	| 3	| f__Leptolyngbyaceae, f__Cyanobacteria_unclassified, f__Prochlorotrichaceae
 FGB5498	| 2	| f__Hyellaceae, f__Dermocarpellaceae
 FGB5500	| 1	| f__Cyanobacteria_unclassified
 FGB5512	| 1	| f__Coleofasciculaceae
 FGB5538	| 1	| f__Fusobacteriaceae
 FGB5549	| 1	| f__Proteinivoraceae
-FGB5559	| 2	| f__Thermotogaceae, f__Sporomusaceae
+FGB5559	| 2	| f__Sporomusaceae, f__Thermotogaceae
 FGB5571	| 1	| f__Staphylococcaceae
 FGB5576	| 1	| f__Bacillaceae
 FGB5600	| 1	| f__Planococcaceae
@@ -1032,8 +1032,8 @@ FGB6656	| 1	| f__Dictyobacteraceae
 FGB6663	| 1	| f__Succinivibrionaceae
 FGB6666	| 1	| f__Spirochaetaceae
 FGB6672	| 1	| f__Spirochaetaceae
-FGB6675	| 2	| f__Tenericutes_unclassified, f__Acholeplasmataceae
-FGB6677	| 2	| f__Bacteroidaceae, f__Erysipelotrichaceae
+FGB6675	| 2	| f__Acholeplasmataceae, f__Tenericutes_unclassified
+FGB6677	| 2	| f__Erysipelotrichaceae, f__Bacteroidaceae
 FGB6679	| 1	| f__Amoebophilaceae
 FGB6683	| 1	| f__Mycoplasmataceae
 FGB6685	| 1	| f__Mycoplasmataceae
@@ -1042,18 +1042,18 @@ FGB6691	| 1	| f__Pelagibacteraceae
 FGB6710	| 1	| f__Calotrichaceae
 FGB6715	| 1	| f__Pseudanabaenaceae
 FGB6719	| 1	| f__Hyellaceae
-FGB6721	| 3	| f__Cyanothecaceae, f__Cyanobacteria_unclassified, f__Aphanothecaceae
+FGB6721	| 3	| f__Cyanothecaceae, f__Aphanothecaceae, f__Cyanobacteria_unclassified
 FGB6726	| 1	| f__Oscillatoriaceae
 FGB6730	| 1	| f__Thiotrichaceae
 FGB6735	| 1	| f__Cellvibrionaceae
-FGB6736	| 2	| f__Thiolinaceae, f__Thiofilaceae
+FGB6736	| 2	| f__Thiofilaceae, f__Thiolinaceae
 FGB6744	| 1	| f__Oceanospirillaceae
-FGB6747	| 5	| f__Ferrimonadaceae, f__Alteromonadales_unclassified, f__Cellvibrionaceae, f__Oceanospirillaceae, f__Gammaproteobacteria_unclassified
+FGB6747	| 5	| f__Alteromonadales_unclassified, f__Gammaproteobacteria_unclassified, f__Cellvibrionaceae, f__Ferrimonadaceae, f__Oceanospirillaceae
 FGB6753	| 1	| f__Eubacteriaceae
 FGB6757	| 2	| f__Oscillospiraceae, f__Clostridiales_Family_XIII_Incertae_Sedis
 FGB6771	| 1	| f__Fusobacteriaceae
 FGB6779	| 1	| f__Clostridiaceae
-FGB6780	| 2	| f__Clostridiaceae, f__Peptostreptococcaceae
+FGB6780	| 2	| f__Peptostreptococcaceae, f__Clostridiaceae
 FGB6782	| 1	| f__Clostridiaceae
 FGB6787	| 1	| f__Paenibacillaceae
 FGB6788	| 1	| f__Paenibacillaceae
@@ -1068,32 +1068,32 @@ FGB6812	| 1	| f__Paenibacillaceae
 FGB6820	| 1	| f__Christensenellaceae
 FGB6825	| 1	| f__Ruminococcaceae
 FGB6838	| 1	| f__Lachnospiraceae
-FGB6840	| 2	| f__Defluviitaleaceae, f__Clostridiales_unclassified
+FGB6840	| 2	| f__Clostridiales_unclassified, f__Defluviitaleaceae
 FGB6849	| 1	| f__Peptoniphilaceae
-FGB6858	| 2	| f__Bacteria_unclassified, f__Lactobacillaceae
+FGB6858	| 2	| f__Lactobacillaceae, f__Bacteria_unclassified
 FGB6865	| 2	| f__Desulfovibrionaceae, f__Prevotellaceae
 FGB6869	| 1	| f__Carnobacteriaceae
 FGB6876	| 1	| f__Sporolactobacillaceae
 FGB6883	| 1	| f__Bacillaceae
 FGB6884	| 1	| f__Bacillaceae
 FGB6886	| 1	| f__Sporolactobacillaceae
-FGB6887	| 2	| f__Bacillales_Family_X_Incertae_Sedis, f__Bacillaceae
+FGB6887	| 2	| f__Bacillaceae, f__Bacillales_Family_X_Incertae_Sedis
 FGB6892	| 1	| f__Planococcaceae
 FGB6897	| 1	| f__Bacillaceae
 FGB6901	| 1	| f__Bacillaceae
 FGB6913	| 1	| f__Candidatus_Atribacteria_unclassified
-FGB6914	| 2	| f__Ruminococcaceae, f__Peptostreptococcaceae
+FGB6914	| 2	| f__Peptostreptococcaceae, f__Ruminococcaceae
 FGB6920	| 1	| f__Peptococcaceae
 FGB6930	| 1	| f__Thermoactinomycetaceae
 FGB6933	| 1	| f__Clostridiaceae
-FGB6947	| 2	| f__Veillonellaceae, f__Sporomusaceae
+FGB6947	| 2	| f__Sporomusaceae, f__Veillonellaceae
 FGB6948	| 1	| f__Sporomusaceae
 FGB6952	| 1	| f__Halobacteroidaceae
 FGB6955	| 1	| f__Clostridiales_unclassified
 FGB6958	| 1	| f__Alicyclobacillaceae
 FGB6959	| 1	| f__Alicyclobacillaceae
 FGB6960	| 1	| f__Alicyclobacillaceae
-FGB6968	| 3	| f__Tissierellaceae, f__Peptococcaceae, f__Hungateiclostridiaceae
+FGB6968	| 3	| f__Peptococcaceae, f__Hungateiclostridiaceae, f__Tissierellaceae
 FGB6969	| 2	| f__Peptococcaceae, f__Syntrophomonadaceae
 FGB6974	| 1	| f__Methylocystaceae
 FGB6981	| 1	| f__Cohaesibacteraceae
@@ -1124,30 +1124,30 @@ FGB7101	| 1	| f__Kordiimonadaceae
 FGB7105	| 1	| f__Rhodobacteraceae
 FGB7106	| 1	| f__Rhodobacteraceae
 FGB7110	| 1	| f__Sphingomonadaceae
-FGB7111	| 2	| f__Erythrobacteraceae, f__Sphingomonadaceae
+FGB7111	| 2	| f__Sphingomonadaceae, f__Erythrobacteraceae
 FGB7119	| 1	| f__Rhizobiales_unclassified
-FGB7124	| 2	| f__Rhodospirillaceae, f__Rhodothalassiaceae
+FGB7124	| 2	| f__Rhodothalassiaceae, f__Rhodospirillaceae
 FGB7125	| 1	| f__Rhodospirillaceae
 FGB7130	| 1	| f__Burkholderiales_unclassified
 FGB7131	| 1	| f__Ectothiorhodospiraceae
 FGB7133	| 2	| f__Alteromonadales_unclassified, f__Cellvibrionaceae
-FGB7142	| 2	| f__Endozoicomonadaceae, f__Oceanospirillales_unclassified
+FGB7142	| 2	| f__Oceanospirillales_unclassified, f__Endozoicomonadaceae
 FGB7145	| 1	| f__Gammaproteobacteria_unclassified
-FGB7146	| 2	| f__Ectothiorhodospiraceae, f__Granulosicoccaceae
+FGB7146	| 2	| f__Granulosicoccaceae, f__Ectothiorhodospiraceae
 FGB7147	| 1	| f__Hahellaceae
-FGB7149	| 2	| f__Halomonadaceae, f__Gammaproteobacteria_unclassified
+FGB7149	| 2	| f__Gammaproteobacteria_unclassified, f__Halomonadaceae
 FGB7157	| 1	| f__Endozoicomonadaceae
-FGB7159	| 2	| f__Bacteria_unclassified, f__Saccharospirillaceae
+FGB7159	| 2	| f__Saccharospirillaceae, f__Bacteria_unclassified
 FGB7161	| 1	| f__Microbulbiferaceae
 FGB7162	| 1	| f__Halomonadaceae
-FGB7166	| 2	| f__Hydrogenophilaceae, f__Thioalkalibacteraceae
+FGB7166	| 2	| f__Thioalkalibacteraceae, f__Hydrogenophilaceae
 FGB7170	| 2	| f__Algiphilaceae, f__Sinobacteraceae
 FGB7173	| 1	| f__Moraxellaceae
 FGB7181	| 1	| f__Rubrobacteraceae
 FGB7189	| 1	| f__Bacillaceae
 FGB7193	| 1	| f__Chloroflexaceae
 FGB7194	| 1	| f__Oscillochloridaceae
-FGB7195	| 2	| f__Chloroflexales_unclassified, f__Oscillochloridaceae
+FGB7195	| 2	| f__Oscillochloridaceae, f__Chloroflexales_unclassified
 FGB7199	| 1	| f__Sinobacteraceae
 FGB7200	| 1	| f__Bradymonadaceae
 FGB7210	| 1	| f__Desulfuromonadaceae
@@ -1161,10 +1161,10 @@ FGB7232	| 1	| f__Microbacteriaceae
 FGB7233	| 1	| f__Balneolaceae
 FGB7244	| 1	| f__Actinomycetaceae
 FGB7246	| 1	| f__Actinomycetaceae
-FGB7251	| 5	| f__Solirubrobacteraceae, f__Patulibacteraceae, f__Conexibacteraceae, f__Solirubrobacterales_unclassified, f__Gaiellaceae
-FGB7257	| 4	| f__Euzebyaceae, f__Egicoccaceae, f__Nitriliruptoraceae, f__Egibacteraceae
+FGB7251	| 5	| f__Solirubrobacteraceae, f__Conexibacteraceae, f__Solirubrobacterales_unclassified, f__Patulibacteraceae, f__Gaiellaceae
+FGB7257	| 4	| f__Nitriliruptoraceae, f__Euzebyaceae, f__Egibacteraceae, f__Egicoccaceae
 FGB7258	| 1	| f__Ilumatobacteraceae
-FGB7263	| 2	| f__Dermatophilaceae, f__Dermacoccaceae
+FGB7263	| 2	| f__Dermacoccaceae, f__Dermatophilaceae
 FGB7265	| 2	| f__Jonesiaceae, f__Micrococcales_unclassified
 FGB7268	| 1	| f__Microbacteriaceae
 FGB7271	| 1	| f__Geodermatophilaceae
@@ -1175,7 +1175,7 @@ FGB7291	| 1	| f__Desulfonatronaceae
 FGB7292	| 1	| f__Desulfohalobiaceae
 FGB8006	| 1	| f__Acidimicrobiales_unclassified
 FGB8013	| 1	| f__Acidimicrobiales_unclassified
-FGB10406	| 3	| f__Flavobacteriaceae, f__Rhodobacteraceae, f__Pelagibacteraceae
+FGB10406	| 3	| f__Rhodobacteraceae, f__Flavobacteriaceae, f__Pelagibacteraceae
 FGB10422	| 1	| f__Rhizobiaceae
 FGB10457	| 1	| f__Candidatus_Atribacteria_unclassified
 FGB10470	| 1	| f__Prochloraceae
@@ -1185,34 +1185,34 @@ FGB10485	| 1	| f__Synechococcaceae
 FGB10488	| 1	| f__Pseudomonadaceae
 FGB10498	| 1	| f__Crenarchaeota_unclassified
 FGB10511	| 1	| f__Crenarchaeota_unclassified
-FGB10512	| 2	| f__Verrucomicrobia_unclassified, f__Cellulomonadaceae
-FGB10518	| 2	| f__Pelagibacteraceae, f__Prochloraceae
+FGB10512	| 2	| f__Cellulomonadaceae, f__Verrucomicrobia_unclassified
+FGB10518	| 2	| f__Prochloraceae, f__Pelagibacteraceae
 FGB10519	| 2	| f__Deltaproteobacteria_unclassified, f__Candidatus_Aminicenantes_unclassified
 FGB10520	| 1	| f__Prochloraceae
-FGB10540	| 3	| f__Prochloraceae, f__Candidatus_Calescamantes_unclassified, f__Candidatus_Parcubacteria_unclassified
+FGB10540	| 3	| f__Candidatus_Calescamantes_unclassified, f__Prochloraceae, f__Candidatus_Parcubacteria_unclassified
 FGB10546	| 2	| f__Prochloraceae, f__Pelagibacteraceae
-FGB10556	| 2	| f__Bacillaceae, f__Candidatus_Hydrogenedentes_unclassified
+FGB10556	| 2	| f__Candidatus_Hydrogenedentes_unclassified, f__Bacillaceae
 FGB10572	| 1	| f__Prochloraceae
 FGB10624	| 1	| f__Rhizobiaceae
-FGB10626	| 2	| f__Prochloraceae, f__Candidatus_Aerophobetes_unclassified
+FGB10626	| 2	| f__Candidatus_Aerophobetes_unclassified, f__Prochloraceae
 FGB10631	| 1	| f__Planococcaceae
-FGB10634	| 3	| f__Chloroflexi_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Nocardioidaceae
-FGB10635	| 4	| f__Pelagibacteraceae, f__Candidatus_Aminicenantes_unclassified, f__Marinilabiliaceae, f__Enterobacteriaceae
-FGB10644	| 4	| f__Prochloraceae, f__Vibrionaceae, f__Rhodobacteraceae, f__Enterobacteriaceae
-FGB10646	| 2	| f__Firmicutes_unclassified, f__Prochloraceae
+FGB10634	| 3	| f__Nocardioidaceae, f__Chloroflexi_unclassified, f__Candidatus_Cloacimonetes_unclassified
+FGB10635	| 4	| f__Marinilabiliaceae, f__Enterobacteriaceae, f__Candidatus_Aminicenantes_unclassified, f__Pelagibacteraceae
+FGB10644	| 4	| f__Prochloraceae, f__Enterobacteriaceae, f__Rhodobacteraceae, f__Vibrionaceae
+FGB10646	| 2	| f__Prochloraceae, f__Firmicutes_unclassified
 FGB10648	| 1	| f__Micrococcaceae
-FGB10651	| 2	| f__Prochloraceae, f__Mycobacteriaceae
-FGB10658	| 2	| f__Kiritimatiellales_unclassified, f__Kineosporiaceae
-FGB10663	| 2	| f__Prochloraceae, f__Colwelliaceae
+FGB10651	| 2	| f__Mycobacteriaceae, f__Prochloraceae
+FGB10658	| 2	| f__Kineosporiaceae, f__Kiritimatiellales_unclassified
+FGB10663	| 2	| f__Colwelliaceae, f__Prochloraceae
 FGB10669	| 2	| f__Bacteria_unclassified, f__Candidatus_Aminicenantes_unclassified
 FGB10681	| 1	| f__Prochloraceae
 FGB10686	| 1	| f__Mariprofundaceae
 FGB10692	| 1	| f__Candidatus_Fervidibacteria_unclassified
 FGB10695	| 1	| f__Pelagibacteraceae
 FGB10702	| 1	| f__Candidatus_Cloacimonetes_unclassified
-FGB10751	| 2	| f__Idiomarinaceae, f__Prochloraceae
+FGB10751	| 2	| f__Prochloraceae, f__Idiomarinaceae
 FGB10755	| 1	| f__Prochloraceae
-FGB10765	| 5	| f__Prochloraceae, f__Ruminococcaceae, f__Candidatus_Microgenomates_unclassified, f__Candidatus_Gracilibacteria_unclassified, f__Enterobacteriaceae
+FGB10765	| 5	| f__Candidatus_Microgenomates_unclassified, f__Prochloraceae, f__Enterobacteriaceae, f__Candidatus_Gracilibacteria_unclassified, f__Ruminococcaceae
 FGB10767	| 1	| f__Prochloraceae
 FGB10768	| 1	| f__Prochloraceae
 FGB10781	| 1	| f__Alphaproteobacteria_unclassified
@@ -1221,14 +1221,14 @@ FGB10796	| 1	| f__Gammaproteobacteria_unclassified
 FGB10798	| 1	| f__Alphaproteobacteria_unclassified
 FGB10804	| 2	| f__Chlamydiaceae, f__Cytophagaceae
 FGB10821	| 2	| f__Prochloraceae, f__Pseudonocardiaceae
-FGB10905	| 2	| f__Pelagibacteraceae, f__Thaumarchaeota_unclassified
+FGB10905	| 2	| f__Thaumarchaeota_unclassified, f__Pelagibacteraceae
 FGB10940	| 1	| f__Candidatus_Aminicenantes_unclassified
 FGB11000	| 1	| f__Prochloraceae
-FGB11027	| 2	| f__Alphaproteobacteria_unclassified, f__Candidatus_Atribacteria_unclassified
-FGB11054	| 2	| f__Synechococcaceae, f__Alphaproteobacteria_unclassified
+FGB11027	| 2	| f__Candidatus_Atribacteria_unclassified, f__Alphaproteobacteria_unclassified
+FGB11054	| 2	| f__Alphaproteobacteria_unclassified, f__Synechococcaceae
 FGB11057	| 1	| f__Prochloraceae
-FGB11058	| 2	| f__Neisseriaceae, f__Nitrospinaceae
-FGB11064	| 2	| f__Chlamydiaceae, f__Comamonadaceae
+FGB11058	| 2	| f__Nitrospinaceae, f__Neisseriaceae
+FGB11064	| 2	| f__Comamonadaceae, f__Chlamydiaceae
 FGB11115	| 1	| f__Rhizobiales_unclassified
 FGB11187	| 1	| f__Synechococcaceae
 FGB11209	| 1	| f__Pelagibacteraceae
@@ -1236,82 +1236,82 @@ FGB11213	| 2	| f__Leuconostocaceae, f__Clostridiaceae
 FGB11250	| 1	| f__Streptomycetaceae
 FGB11275	| 1	| f__Actinobacteria_unclassified
 FGB11277	| 1	| f__Gammaproteobacteria_unclassified
-FGB11318	| 2	| f__Paenibacillaceae, f__Kineosporiaceae
-FGB11320	| 2	| f__Prochloraceae, f__Rhizobiaceae
-FGB11329	| 3	| f__Microbacteriaceae, f__Thaumarchaeota_unclassified, f__Prochloraceae
-FGB11331	| 6	| f__Pelagibacteraceae, f__Prochloraceae, f__Kineosporiaceae, f__Microbacteriaceae, f__Rhizobiaceae, f__Streptococcaceae
-FGB11333	| 4	| f__Promicromonosporaceae, f__Bacillaceae, f__Oxalobacteraceae, f__Halobacteriales_unclassified
+FGB11318	| 2	| f__Kineosporiaceae, f__Paenibacillaceae
+FGB11320	| 2	| f__Rhizobiaceae, f__Prochloraceae
+FGB11329	| 3	| f__Prochloraceae, f__Microbacteriaceae, f__Thaumarchaeota_unclassified
+FGB11331	| 6	| f__Kineosporiaceae, f__Rhizobiaceae, f__Prochloraceae, f__Microbacteriaceae, f__Streptococcaceae, f__Pelagibacteraceae
+FGB11333	| 4	| f__Promicromonosporaceae, f__Halobacteriales_unclassified, f__Bacillaceae, f__Oxalobacteraceae
 FGB11334	| 1	| f__Nocardiaceae
 FGB11335	| 1	| f__Rhodobacteraceae
-FGB11356	| 8	| f__Prochloraceae, f__Nocardiaceae, f__Thermotogae_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Alphaproteobacteria_unclassified, f__Sphingomonadaceae, f__Pseudomonadaceae, f__Thaumarchaeota_unclassified
+FGB11356	| 8	| f__Nocardiaceae, f__Thaumarchaeota_unclassified, f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Pseudomonadaceae, f__Candidatus_Cloacimonetes_unclassified, f__Thermotogae_unclassified, f__Sphingomonadaceae
 FGB11358	| 3	| f__Prochloraceae, f__Bacillaceae, f__Enterobacteriaceae
-FGB11359	| 2	| f__Deltaproteobacteria_unclassified, f__Mycobacteriaceae
+FGB11359	| 2	| f__Mycobacteriaceae, f__Deltaproteobacteria_unclassified
 FGB11371	| 2	| f__Synechococcaceae, f__Enterobacteriaceae
 FGB11375	| 2	| f__Prochloraceae, f__Oxalobacteraceae
 FGB11378	| 1	| f__Candidatus_Marinimicrobia_unclassified
-FGB11379	| 2	| f__Prochloraceae, f__Streptomycetaceae
-FGB11383	| 2	| f__Nostocaceae, f__Gammaproteobacteria_unclassified
-FGB11397	| 2	| f__Oxalobacteraceae, f__Candidatus_Marinimicrobia_unclassified
+FGB11379	| 2	| f__Streptomycetaceae, f__Prochloraceae
+FGB11383	| 2	| f__Gammaproteobacteria_unclassified, f__Nostocaceae
+FGB11397	| 2	| f__Candidatus_Marinimicrobia_unclassified, f__Oxalobacteraceae
 FGB11398	| 1	| f__Prochloraceae
 FGB11412	| 1	| f__Prochloraceae
 FGB11427	| 1	| f__Promicromonosporaceae
-FGB11429	| 6	| f__Prochloraceae, f__Acetobacteraceae, f__Sphingomonadaceae, f__Pseudomonadaceae, f__Microbacteriaceae, f__Listeriaceae
+FGB11429	| 6	| f__Acetobacteraceae, f__Listeriaceae, f__Prochloraceae, f__Microbacteriaceae, f__Pseudomonadaceae, f__Sphingomonadaceae
 FGB11431	| 2	| f__Anaplasmataceae, f__Dysgonamonadaceae
 FGB11434	| 2	| f__Candidatus_Microgenomates_unclassified, f__Pseudomonadaceae
 FGB11467	| 2	| f__Bacillaceae, f__Hyphomicrobiaceae
-FGB11468	| 5	| f__Prochloraceae, f__Candidatus_Calescamantes_unclassified, f__Micrococcaceae, f__Streptomycetaceae, f__Alphaproteobacteria_unclassified
-FGB11471	| 7	| f__Pelagibacteraceae, f__Prochloraceae, f__Lactobacillaceae, f__Pseudomonadaceae, f__Thaumarchaeota_unclassified, f__Streptococcaceae, f__Enterobacteriaceae
+FGB11468	| 5	| f__Micrococcaceae, f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Candidatus_Calescamantes_unclassified, f__Streptomycetaceae
+FGB11471	| 7	| f__Thaumarchaeota_unclassified, f__Prochloraceae, f__Pseudomonadaceae, f__Lactobacillaceae, f__Enterobacteriaceae, f__Streptococcaceae, f__Pelagibacteraceae
 FGB11474	| 2	| f__Streptomycetaceae, f__Verrucomicrobia_unclassified
-FGB11483	| 9	| f__Prochloraceae, f__Gemmatimonadetes_unclassified, f__Gammaproteobacteria_unclassified, f__Actinobacteria_unclassified, f__Alphaproteobacteria_unclassified, f__Erwiniaceae, f__Pseudomonadaceae, f__Candidatus_Atribacteria_unclassified, f__Enterobacteriaceae
-FGB11484	| 20	| f__Chromobacteriaceae, f__Alphaproteobacteria_unclassified, f__Erwiniaceae, f__Desulfuromonadaceae, f__Oligoflexaceae, f__Halomonadaceae, f__Prochloraceae, f__Burkholderiaceae, f__Rhizobiales_unclassified, f__Pelagibacteraceae, f__Alteromonadaceae, f__Synechococcaceae, f__Candidatus_Aerophobetes_unclassified, f__Candidatus_Saccharibacteria_unclassified, f__Zetaproteobacteria_unclassified, f__Pseudonocardiaceae, f__Gammaproteobacteria_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Firmicutes_unclassified, f__Candidatus_Poribacteria_unclassified
-FGB11489	| 4	| f__Prochloraceae, f__Candidatus_Latescibacteria_unclassified, f__Thermoproteaceae, f__Candidatus_Diapherotrites_unclassified
-FGB11491	| 4	| f__Prochloraceae, f__Mycoplasmatales_unclassified, f__Enterobacteriaceae, f__Pseudomonadaceae
-FGB11493	| 2	| f__Yersiniaceae, f__Pasteurellaceae
-FGB11545	| 2	| f__Prochloraceae, f__Rhizobiaceae
-FGB11577	| 2	| f__Vibrionaceae, f__Micrococcaceae
-FGB11592	| 3	| f__Micrococcaceae, f__Burkholderiaceae, f__Staphylococcaceae
-FGB11615	| 9	| f__Prochloraceae, f__Flavobacteriaceae, f__Geodermatophilaceae, f__Vibrionaceae, f__Halomonadaceae, f__Alphaproteobacteria_unclassified, f__Rhizobiaceae, f__Planctomycetes_unclassified, f__Planococcaceae
-FGB11630	| 16	| f__Prochloraceae, f__Syntrophobacteraceae, f__Pelagibacteraceae, f__Xanthomonadaceae, f__Synechococcaceae, f__Candidatus_Tectomicrobia_unclassified, f__Bacillaceae, f__Cyanobacteria_unclassified, f__Conexibacteraceae, f__Halomonadaceae, f__Campylobacteraceae, f__Candidatus_Parcubacteria_unclassified, f__Thaumarchaeota_unclassified, f__Deltaproteobacteria_unclassified, f__Enterobacteriaceae, f__Caulobacteraceae
-FGB11658	| 10	| f__Pelagibacteraceae, f__Bacteria_unclassified, f__Synechococcaceae, f__Candidatus_Aminicenantes_unclassified, f__Prochloraceae, f__Rhizobiales_unclassified, f__Gammaproteobacteria_unclassified, f__Candidatus_Microgenomates_unclassified, f__Microbacteriaceae, f__Thaumarchaeota_unclassified
+FGB11483	| 9	| f__Candidatus_Atribacteria_unclassified, f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Gammaproteobacteria_unclassified, f__Gemmatimonadetes_unclassified, f__Pseudomonadaceae, f__Erwiniaceae, f__Enterobacteriaceae, f__Actinobacteria_unclassified
+FGB11484	| 20	| f__Candidatus_Saccharibacteria_unclassified, f__Zetaproteobacteria_unclassified, f__Gammaproteobacteria_unclassified, f__Prochloraceae, f__Candidatus_Aerophobetes_unclassified, f__Burkholderiaceae, f__Erwiniaceae, f__Oligoflexaceae, f__Rhizobiales_unclassified, f__Alphaproteobacteria_unclassified, f__Alteromonadaceae, f__Candidatus_Cloacimonetes_unclassified, f__Firmicutes_unclassified, f__Pelagibacteraceae, f__Pseudonocardiaceae, f__Synechococcaceae, f__Halomonadaceae, f__Chromobacteriaceae, f__Candidatus_Poribacteria_unclassified, f__Desulfuromonadaceae
+FGB11489	| 4	| f__Prochloraceae, f__Candidatus_Diapherotrites_unclassified, f__Thermoproteaceae, f__Candidatus_Latescibacteria_unclassified
+FGB11491	| 4	| f__Mycoplasmatales_unclassified, f__Prochloraceae, f__Enterobacteriaceae, f__Pseudomonadaceae
+FGB11493	| 2	| f__Pasteurellaceae, f__Yersiniaceae
+FGB11545	| 2	| f__Rhizobiaceae, f__Prochloraceae
+FGB11577	| 2	| f__Micrococcaceae, f__Vibrionaceae
+FGB11592	| 3	| f__Burkholderiaceae, f__Micrococcaceae, f__Staphylococcaceae
+FGB11615	| 9	| f__Planococcaceae, f__Vibrionaceae, f__Rhizobiaceae, f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Halomonadaceae, f__Planctomycetes_unclassified, f__Flavobacteriaceae, f__Geodermatophilaceae
+FGB11630	| 16	| f__Pelagibacteraceae, f__Campylobacteraceae, f__Bacillaceae, f__Candidatus_Parcubacteria_unclassified, f__Thaumarchaeota_unclassified, f__Conexibacteraceae, f__Prochloraceae, f__Candidatus_Tectomicrobia_unclassified, f__Synechococcaceae, f__Halomonadaceae, f__Enterobacteriaceae, f__Xanthomonadaceae, f__Syntrophobacteraceae, f__Deltaproteobacteria_unclassified, f__Cyanobacteria_unclassified, f__Caulobacteraceae
+FGB11658	| 10	| f__Thaumarchaeota_unclassified, f__Rhizobiales_unclassified, f__Candidatus_Microgenomates_unclassified, f__Gammaproteobacteria_unclassified, f__Prochloraceae, f__Synechococcaceae, f__Microbacteriaceae, f__Bacteria_unclassified, f__Candidatus_Aminicenantes_unclassified, f__Pelagibacteraceae
 FGB11664	| 1	| f__Prochloraceae
-FGB11675	| 2	| f__Paenibacillaceae, f__Prochloraceae
-FGB11681	| 2	| f__Paenibacillaceae, f__Bacillaceae
-FGB11682	| 2	| f__Streptomycetaceae, f__Comamonadaceae
+FGB11675	| 2	| f__Prochloraceae, f__Paenibacillaceae
+FGB11681	| 2	| f__Bacillaceae, f__Paenibacillaceae
+FGB11682	| 2	| f__Comamonadaceae, f__Streptomycetaceae
 FGB11734	| 1	| f__Prochloraceae
 FGB11735	| 1	| f__Erythrobacteraceae
 FGB11749	| 1	| f__Pseudomonadaceae
-FGB11760	| 3	| f__Prochloraceae, f__Rhizobiaceae, f__Pseudomonadaceae
+FGB11760	| 3	| f__Rhizobiaceae, f__Prochloraceae, f__Pseudomonadaceae
 FGB11776	| 1	| f__Intrasporangiaceae
-FGB11777	| 2	| f__Prochloraceae, f__Streptomycetaceae
-FGB11800	| 2	| f__Pelagibacteraceae, f__Euryarchaeota_unclassified
+FGB11777	| 2	| f__Streptomycetaceae, f__Prochloraceae
+FGB11800	| 2	| f__Euryarchaeota_unclassified, f__Pelagibacteraceae
 FGB11807	| 1	| f__Synechococcaceae
 FGB11810	| 2	| f__Streptomycetaceae, f__Halobacteriales_unclassified
 FGB11828	| 3	| f__Prochloraceae, f__Deltaproteobacteria_unclassified, f__Pelagibacteraceae
-FGB11848	| 2	| f__Gammaproteobacteria_unclassified, f__Flammeovirgaceae
-FGB11878	| 2	| f__Dehalococcoidia_unclassified, f__Intrasporangiaceae
+FGB11848	| 2	| f__Flammeovirgaceae, f__Gammaproteobacteria_unclassified
+FGB11878	| 2	| f__Intrasporangiaceae, f__Dehalococcoidia_unclassified
 FGB11898	| 1	| f__Pelagibacteraceae
 FGB11910	| 1	| f__Prochloraceae
-FGB11917	| 2	| f__Bacteroidetes_unclassified, f__Rhizobiaceae
+FGB11917	| 2	| f__Rhizobiaceae, f__Bacteroidetes_unclassified
 FGB11928	| 1	| f__Firmicutes_unclassified
-FGB11952	| 5	| f__Prochloraceae, f__Rhizobiales_unclassified, f__Nocardioidaceae, f__Bacillaceae, f__Polyangiaceae
-FGB11953	| 4	| f__Euryarchaeota_unclassified, f__Betaproteobacteria_unclassified, f__Thermoplasmatales_unclassified, f__Comamonadaceae
-FGB11999	| 2	| f__Micrococcaceae, f__Synechococcaceae
-FGB12015	| 4	| f__Prochloraceae, f__Erythrobacteraceae, f__Synechococcaceae, f__Gammaproteobacteria_unclassified
+FGB11952	| 5	| f__Bacillaceae, f__Rhizobiales_unclassified, f__Prochloraceae, f__Nocardioidaceae, f__Polyangiaceae
+FGB11953	| 4	| f__Comamonadaceae, f__Euryarchaeota_unclassified, f__Thermoplasmatales_unclassified, f__Betaproteobacteria_unclassified
+FGB11999	| 2	| f__Synechococcaceae, f__Micrococcaceae
+FGB12015	| 4	| f__Gammaproteobacteria_unclassified, f__Prochloraceae, f__Synechococcaceae, f__Erythrobacteraceae
 FGB12072	| 2	| f__Moraxellaceae, f__Xanthobacteraceae
 FGB12076	| 1	| f__Prochloraceae
-FGB12131	| 4	| f__Prochloraceae, f__Proteobacteria_unclassified, f__Pseudoalteromonadaceae, f__Erwiniaceae
+FGB12131	| 4	| f__Pseudoalteromonadaceae, f__Proteobacteria_unclassified, f__Prochloraceae, f__Erwiniaceae
 FGB12139	| 1	| f__Thaumarchaeota_unclassified
 FGB12155	| 1	| f__Prochloraceae
 FGB12205	| 2	| f__Prochloraceae, f__Oxalobacteraceae
 FGB12252	| 1	| f__Alcaligenaceae
-FGB12273	| 3	| f__Prochloraceae, f__Zoogloeaceae, f__Alphaproteobacteria_unclassified
+FGB12273	| 3	| f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Zoogloeaceae
 FGB12289	| 1	| f__Bacteroidetes_unclassified
-FGB12320	| 2	| f__Mycobacteriaceae, f__Candidatus_Saccharibacteria_unclassified
+FGB12320	| 2	| f__Candidatus_Saccharibacteria_unclassified, f__Mycobacteriaceae
 FGB12333	| 2	| f__Psychromonadaceae, f__Bacillaceae
 FGB12358	| 1	| f__Erwiniaceae
-FGB12373	| 2	| f__Prochloraceae, f__Candidatus_Calescamantes_unclassified
+FGB12373	| 2	| f__Candidatus_Calescamantes_unclassified, f__Prochloraceae
 FGB12374	| 2	| f__Bacteria_unclassified, f__Methanomicrobiaceae
-FGB12378	| 2	| f__Prochloraceae, f__Listeriaceae
+FGB12378	| 2	| f__Listeriaceae, f__Prochloraceae
 FGB12380	| 1	| f__Prochloraceae
 FGB12395	| 2	| f__Synechococcaceae, f__Pseudomonadaceae
 FGB12401	| 2	| f__Alteromonadaceae, f__Candidatus_Cloacimonetes_unclassified
@@ -1319,112 +1319,112 @@ FGB12452	| 2	| f__Candidatus_Marinamargulisbacteria_unclassified, f__Desulfobulb
 FGB12548	| 2	| f__Kineosporiaceae, f__Micromonosporaceae
 FGB12555	| 1	| f__Idiomarinaceae
 FGB12598	| 1	| f__Flavobacteriaceae
-FGB12601	| 3	| f__Prochloraceae, f__Pelagibacteraceae, f__Burkholderiaceae
-FGB12607	| 3	| f__Prochloraceae, f__Pseudonocardiaceae, f__Cellulomonadaceae
+FGB12601	| 3	| f__Prochloraceae, f__Burkholderiaceae, f__Pelagibacteraceae
+FGB12607	| 3	| f__Prochloraceae, f__Cellulomonadaceae, f__Pseudonocardiaceae
 FGB12609	| 2	| f__Lactobacillaceae, f__Pseudomonadaceae
-FGB12610	| 7	| f__Prochloraceae, f__Synechococcaceae, f__Nocardioidaceae, f__Streptomycetaceae, f__Erwiniaceae, f__Pseudomonadaceae, f__Gaiellaceae
+FGB12610	| 7	| f__Prochloraceae, f__Synechococcaceae, f__Pseudomonadaceae, f__Nocardioidaceae, f__Streptomycetaceae, f__Erwiniaceae, f__Gaiellaceae
 FGB12612	| 1	| f__Burkholderiaceae
 FGB12619	| 1	| f__Candidatus_Marinimicrobia_unclassified
 FGB12631	| 2	| f__Prochloraceae, f__Pelagibacteraceae
 FGB12632	| 2	| f__Streptomycetaceae, f__Bacillaceae
-FGB12639	| 2	| f__Micrococcaceae, f__Desulfovibrionaceae
-FGB12640	| 5	| f__Prochloraceae, f__Paenibacillaceae, f__Tissierellaceae, f__Idiomarinaceae, f__Candidatus_Diapherotrites_unclassified
-FGB12646	| 4	| f__Prochloraceae, f__Synechococcaceae, f__Euryarchaeota_unclassified, f__Erwiniaceae
-FGB12647	| 2	| f__Actinobacteria_unclassified, f__Erwiniaceae
+FGB12639	| 2	| f__Desulfovibrionaceae, f__Micrococcaceae
+FGB12640	| 5	| f__Prochloraceae, f__Idiomarinaceae, f__Paenibacillaceae, f__Candidatus_Diapherotrites_unclassified, f__Tissierellaceae
+FGB12646	| 4	| f__Erwiniaceae, f__Synechococcaceae, f__Euryarchaeota_unclassified, f__Prochloraceae
+FGB12647	| 2	| f__Erwiniaceae, f__Actinobacteria_unclassified
 FGB12654	| 1	| f__Prochloraceae
 FGB12660	| 2	| f__Nitrosopumilaceae, f__Pelagibacteraceae
-FGB12668	| 2	| f__Prochloraceae, f__Candidatus_Atribacteria_unclassified
+FGB12668	| 2	| f__Candidatus_Atribacteria_unclassified, f__Prochloraceae
 FGB12689	| 1	| f__Prochloraceae
-FGB12690	| 2	| f__Prochloraceae, f__Candidatus_Atribacteria_unclassified
-FGB12704	| 3	| f__Prochloraceae, f__Rhodobacteraceae, f__Burkholderiales_unclassified
+FGB12690	| 2	| f__Candidatus_Atribacteria_unclassified, f__Prochloraceae
+FGB12704	| 3	| f__Burkholderiales_unclassified, f__Prochloraceae, f__Rhodobacteraceae
 FGB12706	| 2	| f__Streptomycetaceae, f__Oxalobacteraceae
-FGB12709	| 5	| f__Halothiobacillaceae, f__Candidatus_Aminicenantes_unclassified, f__Rhizobiales_unclassified, f__Streptomycetaceae, f__Enterobacteriaceae
-FGB12711	| 8	| f__Pelagibacteraceae, f__Prochloraceae, f__Desulfobulbaceae, f__Moraxellaceae, f__Bacteroidetes_unclassified, f__Cytophagaceae, f__Actinobacteria_unclassified, f__Clostridiaceae
-FGB12716	| 2	| f__Pelagibacteraceae, f__Colwelliaceae
+FGB12709	| 5	| f__Rhizobiales_unclassified, f__Candidatus_Aminicenantes_unclassified, f__Halothiobacillaceae, f__Streptomycetaceae, f__Enterobacteriaceae
+FGB12711	| 8	| f__Desulfobulbaceae, f__Clostridiaceae, f__Cytophagaceae, f__Bacteroidetes_unclassified, f__Moraxellaceae, f__Prochloraceae, f__Actinobacteria_unclassified, f__Pelagibacteraceae
+FGB12716	| 2	| f__Colwelliaceae, f__Pelagibacteraceae
 FGB12737	| 2	| f__Zetaproteobacteria_unclassified, f__Verrucomicrobia_unclassified
-FGB12760	| 28	| f__Verrucomicrobiaceae, f__Nocardioidaceae, f__Lactobacillaceae, f__Alphaproteobacteria_unclassified, f__Erwiniaceae, f__Sphingomonadaceae, f__Sulfolobales_unclassified, f__Enterobacteriaceae, f__Prochloraceae, f__Nanoarchaeota_unclassified, f__Bacteria_unclassified, f__Burkholderiaceae, f__Vibrionaceae, f__Oxalobacteraceae, f__Streptomycetaceae, f__Sphingobacteriaceae, f__Campylobacteraceae, f__Pseudomonadaceae, f__Deltaproteobacteria_unclassified, f__Colwelliaceae, f__Synechococcaceae, f__Euryarchaeota_unclassified, f__Comamonadaceae, f__Gammaproteobacteria_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Pectobacteriaceae, f__Microbacteriaceae, f__Rhizobiaceae
-FGB12762	| 10	| f__Prochloraceae, f__Alteromonadaceae, f__Candidatus_Aminicenantes_unclassified, f__Vibrionaceae, f__Propionibacteriaceae, f__Candidatus_Marinamargulisbacteria_unclassified, f__Beijerinckiaceae, f__Pseudomonadaceae, f__Mycoplasmataceae, f__Enterobacteriaceae
-FGB12763	| 7	| f__Prochloraceae, f__Synechococcaceae, f__Comamonadaceae, f__Cytophagaceae, f__Candidatus_Parcubacteria_unclassified, f__Firmicutes_unclassified, f__Enterobacteriaceae
-FGB12768	| 3	| f__Streptomycetaceae, f__Alphaproteobacteria_unclassified, f__Candidatus_Aminicenantes_unclassified
-FGB12770	| 3	| f__Prochloraceae, f__Pelagibacteraceae, f__Rhodanobacteraceae
+FGB12760	| 28	| f__Gammaproteobacteria_unclassified, f__Prochloraceae, f__Lactobacillaceae, f__Enterobacteriaceae, f__Pectobacteriaceae, f__Deltaproteobacteria_unclassified, f__Burkholderiaceae, f__Rhizobiaceae, f__Nanoarchaeota_unclassified, f__Bacteria_unclassified, f__Erwiniaceae, f__Euryarchaeota_unclassified, f__Campylobacteraceae, f__Vibrionaceae, f__Alphaproteobacteria_unclassified, f__Microbacteriaceae, f__Pseudomonadaceae, f__Colwelliaceae, f__Streptomycetaceae, f__Candidatus_Cloacimonetes_unclassified, f__Verrucomicrobiaceae, f__Sphingomonadaceae, f__Comamonadaceae, f__Synechococcaceae, f__Oxalobacteraceae, f__Nocardioidaceae, f__Sphingobacteriaceae, f__Sulfolobales_unclassified
+FGB12762	| 10	| f__Mycoplasmataceae, f__Candidatus_Marinamargulisbacteria_unclassified, f__Vibrionaceae, f__Prochloraceae, f__Alteromonadaceae, f__Propionibacteriaceae, f__Candidatus_Aminicenantes_unclassified, f__Pseudomonadaceae, f__Enterobacteriaceae, f__Beijerinckiaceae
+FGB12763	| 7	| f__Comamonadaceae, f__Candidatus_Parcubacteria_unclassified, f__Cytophagaceae, f__Prochloraceae, f__Synechococcaceae, f__Enterobacteriaceae, f__Firmicutes_unclassified
+FGB12768	| 3	| f__Alphaproteobacteria_unclassified, f__Streptomycetaceae, f__Candidatus_Aminicenantes_unclassified
+FGB12770	| 3	| f__Prochloraceae, f__Rhodanobacteraceae, f__Pelagibacteraceae
 FGB12844	| 1	| f__Actinobacteria_unclassified
-FGB12942	| 2	| f__Burkholderiaceae, f__Oceanospirillales_unclassified
+FGB12942	| 2	| f__Oceanospirillales_unclassified, f__Burkholderiaceae
 FGB12944	| 2	| f__Prochloraceae, f__Firmicutes_unclassified
 FGB12958	| 1	| f__Prochloraceae
 FGB13066	| 1	| f__Prochloraceae
 FGB13079	| 1	| f__Desulfobulbaceae
 FGB13088	| 2	| f__Prochloraceae, f__Rhizobiales_unclassified
-FGB13108	| 2	| f__Pelagibacteraceae, f__Sphingomonadaceae
-FGB13145	| 2	| f__Micrococcaceae, f__Polyangiaceae
-FGB13182	| 2	| f__Prochloraceae, f__Proteobacteria_unclassified
-FGB13195	| 2	| f__Prochloraceae, f__Lactobacillaceae
+FGB13108	| 2	| f__Sphingomonadaceae, f__Pelagibacteraceae
+FGB13145	| 2	| f__Polyangiaceae, f__Micrococcaceae
+FGB13182	| 2	| f__Proteobacteria_unclassified, f__Prochloraceae
+FGB13195	| 2	| f__Lactobacillaceae, f__Prochloraceae
 FGB13202	| 1	| f__Prochloraceae
 FGB13220	| 2	| f__Prochloraceae, f__Synechococcaceae
 FGB13223	| 2	| f__Mycoplasmataceae, f__Sphingobacteriaceae
 FGB13225	| 1	| f__Prochloraceae
 FGB13248	| 2	| f__Prochloraceae, f__Bacteria_unclassified
-FGB13260	| 2	| f__Pelagibacteraceae, f__Caldiserica_unclassified
-FGB13287	| 2	| f__Yersiniaceae, f__Gammaproteobacteria_unclassified
+FGB13260	| 2	| f__Caldiserica_unclassified, f__Pelagibacteraceae
+FGB13287	| 2	| f__Gammaproteobacteria_unclassified, f__Yersiniaceae
 FGB13326	| 1	| f__Prochloraceae
 FGB13340	| 2	| f__Glycomycetaceae, f__Pseudomonadaceae
-FGB13413	| 15	| f__Prochloraceae, f__Chloroflexi_unclassified, f__Pelagibacteraceae, f__Thermoproteaceae, f__Burkholderiaceae, f__Synechococcaceae, f__Flavobacteriaceae, f__Xanthomonadaceae, f__Pseudonocardiaceae, f__Candidatus_Poseidoniia_unclassified, f__Bacillaceae, f__Kangiellaceae, f__Candidatus_Microgenomates_unclassified, f__Alphaproteobacteria_unclassified, f__Erwiniaceae
-FGB13509	| 2	| f__Prochloraceae, f__Alphaproteobacteria_unclassified
+FGB13413	| 15	| f__Pseudonocardiaceae, f__Burkholderiaceae, f__Bacillaceae, f__Candidatus_Microgenomates_unclassified, f__Alphaproteobacteria_unclassified, f__Chloroflexi_unclassified, f__Prochloraceae, f__Synechococcaceae, f__Erwiniaceae, f__Thermoproteaceae, f__Flavobacteriaceae, f__Xanthomonadaceae, f__Kangiellaceae, f__Candidatus_Poseidoniia_unclassified, f__Pelagibacteraceae
+FGB13509	| 2	| f__Alphaproteobacteria_unclassified, f__Prochloraceae
 FGB13524	| 2	| f__Prochloraceae, f__Chloroflexi_unclassified
 FGB13546	| 2	| f__Flavobacteriaceae, f__Methylobacteriaceae
-FGB13606	| 2	| f__Prochloraceae, f__Rhizobiaceae
+FGB13606	| 2	| f__Rhizobiaceae, f__Prochloraceae
 FGB13625	| 1	| f__Erwiniaceae
-FGB13654	| 2	| f__Erwiniaceae, f__Nocardioidaceae
-FGB13661	| 2	| f__Bacteria_unclassified, f__Rhizobiaceae
+FGB13654	| 2	| f__Nocardioidaceae, f__Erwiniaceae
+FGB13661	| 2	| f__Rhizobiaceae, f__Bacteria_unclassified
 FGB13664	| 2	| f__Prochloraceae, f__Bradyrhizobiaceae
-FGB13701	| 3	| f__Prochloraceae, f__Alphaproteobacteria_unclassified, f__Candidatus_Poribacteria_unclassified
-FGB13724	| 2	| f__Prochloraceae, f__Moraxellaceae
+FGB13701	| 3	| f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Candidatus_Poribacteria_unclassified
+FGB13724	| 2	| f__Moraxellaceae, f__Prochloraceae
 FGB13775	| 1	| f__Prochloraceae
-FGB13793	| 2	| f__Flavobacteriaceae, f__Prochloraceae
-FGB13797	| 6	| f__Prochloraceae, f__Rhizobiales_unclassified, f__Enterobacteriaceae, f__Cellulomonadaceae, f__Streptococcaceae, f__Clostridiaceae
+FGB13793	| 2	| f__Prochloraceae, f__Flavobacteriaceae
+FGB13797	| 6	| f__Clostridiaceae, f__Rhizobiales_unclassified, f__Prochloraceae, f__Cellulomonadaceae, f__Enterobacteriaceae, f__Streptococcaceae
 FGB13803	| 1	| f__Enterobacteriaceae
-FGB13817	| 2	| f__Thaumarchaeota_unclassified, f__Synechococcaceae
-FGB13825	| 4	| f__Bacteria_unclassified, f__Candidatus_Atribacteria_unclassified, f__Erwiniaceae, f__Acidilobaceae
-FGB13833	| 4	| f__Prochloraceae, f__Nocardioidaceae, f__Thermoproteaceae, f__Geodermatophilaceae
+FGB13817	| 2	| f__Synechococcaceae, f__Thaumarchaeota_unclassified
+FGB13825	| 4	| f__Candidatus_Atribacteria_unclassified, f__Erwiniaceae, f__Bacteria_unclassified, f__Acidilobaceae
+FGB13833	| 4	| f__Nocardioidaceae, f__Prochloraceae, f__Geodermatophilaceae, f__Thermoproteaceae
 FGB13834	| 2	| f__Prochloraceae, f__Pelagibacteraceae
-FGB13835	| 7	| f__Prochloraceae, f__Synechococcaceae, f__Burkholderiaceae, f__Rhizobiales_unclassified, f__Comamonadaceae, f__Rhizobiaceae, f__Candidatus_Marinimicrobia_unclassified
-FGB13836	| 13	| f__Prochloraceae, f__Flavobacteriaceae, f__Bacteria_unclassified, f__Pelagibacteraceae, f__Comamonadaceae, f__Bacteroidetes_unclassified, f__Streptomycetaceae, f__Micrococcaceae, f__Sphingobacteriaceae, f__Erwiniaceae, f__Rhodobacteraceae, f__Nitrospirales_unclassified, f__Haloarculaceae
+FGB13835	| 7	| f__Comamonadaceae, f__Burkholderiaceae, f__Rhizobiales_unclassified, f__Rhizobiaceae, f__Prochloraceae, f__Synechococcaceae, f__Candidatus_Marinimicrobia_unclassified
+FGB13836	| 13	| f__Comamonadaceae, f__Rhodobacteraceae, f__Micrococcaceae, f__Bacteroidetes_unclassified, f__Prochloraceae, f__Bacteria_unclassified, f__Nitrospirales_unclassified, f__Haloarculaceae, f__Sphingobacteriaceae, f__Erwiniaceae, f__Streptomycetaceae, f__Flavobacteriaceae, f__Pelagibacteraceae
 FGB13839	| 3	| f__Prochloraceae, f__Cyclobacteriaceae, f__Flavobacteriaceae
-FGB13852	| 31	| f__Desulfobulbaceae, f__Nocardioidaceae, f__Alphaproteobacteria_unclassified, f__Erwiniaceae, f__Sphingomonadaceae, f__Microbacteriaceae, f__Nitrospinaceae, f__Micromonosporaceae, f__Flavobacteriaceae, f__Candidatus_Aenigmarchaeota_unclassified, f__Enterobacteriaceae, f__Prochloraceae, f__Epsilonproteobacteria_unclassified, f__Xanthomonadaceae, f__Burkholderiaceae, f__Kineosporiaceae, f__Streptomycetaceae, f__Pseudomonadaceae, f__Chitinophagaceae, f__Rhodobacteraceae, f__Candidatus_Fervidibacteria_unclassified, f__Pelagibacteraceae, f__Synechococcaceae, f__Synergistetes_unclassified, f__Comamonadaceae, f__Pseudonocardiaceae, f__Candidatus_Microgenomates_unclassified, f__Micrococcaceae, f__Verrucomicrobia_unclassified, f__Thaumarchaeota_unclassified, f__Enterococcaceae
-FGB13861	| 2	| f__Streptomycetaceae, f__Gammaproteobacteria_unclassified
+FGB13852	| 31	| f__Micromonosporaceae, f__Nitrospinaceae, f__Prochloraceae, f__Epsilonproteobacteria_unclassified, f__Enterobacteriaceae, f__Candidatus_Fervidibacteria_unclassified, f__Burkholderiaceae, f__Candidatus_Microgenomates_unclassified, f__Erwiniaceae, f__Xanthomonadaceae, f__Kineosporiaceae, f__Rhodobacteraceae, f__Alphaproteobacteria_unclassified, f__Enterococcaceae, f__Microbacteriaceae, f__Pseudomonadaceae, f__Streptomycetaceae, f__Verrucomicrobia_unclassified, f__Sphingomonadaceae, f__Pelagibacteraceae, f__Comamonadaceae, f__Desulfobulbaceae, f__Pseudonocardiaceae, f__Thaumarchaeota_unclassified, f__Micrococcaceae, f__Synechococcaceae, f__Chitinophagaceae, f__Candidatus_Aenigmarchaeota_unclassified, f__Nocardioidaceae, f__Flavobacteriaceae, f__Synergistetes_unclassified
+FGB13861	| 2	| f__Gammaproteobacteria_unclassified, f__Streptomycetaceae
 FGB13904	| 2	| f__Microbacteriaceae, f__Pelagibacteraceae
-FGB13922	| 5	| f__Prochloraceae, f__Candidatus_Aenigmarchaeota_unclassified, f__Burkholderiales_unclassified, f__Rhizobiaceae, f__Streptococcaceae
-FGB13924	| 6	| f__Prochloraceae, f__Pelagibacteraceae, f__Moraxellaceae, f__Bacillaceae, f__Candidatus_Marinamargulisbacteria_unclassified, f__Streptomycetaceae
+FGB13922	| 5	| f__Rhizobiaceae, f__Prochloraceae, f__Candidatus_Aenigmarchaeota_unclassified, f__Burkholderiales_unclassified, f__Streptococcaceae
+FGB13924	| 6	| f__Candidatus_Marinamargulisbacteria_unclassified, f__Bacillaceae, f__Moraxellaceae, f__Prochloraceae, f__Streptomycetaceae, f__Pelagibacteraceae
 FGB13929	| 2	| f__Acholeplasmataceae, f__Enterobacteriaceae
 FGB13938	| 1	| f__Prochloraceae
-FGB13947	| 3	| f__Prochloraceae, f__Deltaproteobacteria_unclassified, f__Nocardioidaceae
-FGB13954	| 2	| f__Bacteria_unclassified, f__Nocardiaceae
+FGB13947	| 3	| f__Nocardioidaceae, f__Prochloraceae, f__Deltaproteobacteria_unclassified
+FGB13954	| 2	| f__Nocardiaceae, f__Bacteria_unclassified
 FGB13963	| 3	| f__Prochloraceae, f__Acidimicrobiaceae, f__Rhodobacteraceae
-FGB13964	| 3	| f__Candidatus_Actinomarinaceae, f__Alteromonadaceae, f__Mycobacteriaceae
+FGB13964	| 3	| f__Mycobacteriaceae, f__Alteromonadaceae, f__Candidatus_Actinomarinaceae
 FGB13978	| 2	| f__Alphaproteobacteria_unclassified, f__Micromonosporaceae
-FGB13983	| 2	| f__Pelagibacteraceae, f__Rhodobacteraceae
-FGB13987	| 3	| f__Prochloraceae, f__Streptomycetaceae, f__Alphaproteobacteria_unclassified
-FGB13988	| 9	| f__Flavobacteriaceae, f__Bacteria_unclassified, f__Zoogloeaceae, f__Cytophagaceae, f__Aurantimonadaceae, f__Methylobacteriaceae, f__Actinobacteria_unclassified, f__Bifidobacteriaceae, f__Burkholderiales_unclassified
+FGB13983	| 2	| f__Rhodobacteraceae, f__Pelagibacteraceae
+FGB13987	| 3	| f__Alphaproteobacteria_unclassified, f__Prochloraceae, f__Streptomycetaceae
+FGB13988	| 9	| f__Bifidobacteriaceae, f__Cytophagaceae, f__Bacteria_unclassified, f__Aurantimonadaceae, f__Flavobacteriaceae, f__Zoogloeaceae, f__Burkholderiales_unclassified, f__Methylobacteriaceae, f__Actinobacteria_unclassified
 FGB14046	| 1	| f__Prochloraceae
-FGB14150	| 3	| f__Thermaceae, f__Prochloraceae, f__Bacteria_unclassified
-FGB14196	| 2	| f__Pelagibacteraceae, f__Micrococcaceae
-FGB14201	| 2	| f__Pelagibacteraceae, f__Clostridiales_Family_XVII_Incertae_Sedis
-FGB14207	| 3	| f__Prochloraceae, f__Nocardiaceae, f__Cytophagaceae
+FGB14150	| 3	| f__Prochloraceae, f__Bacteria_unclassified, f__Thermaceae
+FGB14196	| 2	| f__Micrococcaceae, f__Pelagibacteraceae
+FGB14201	| 2	| f__Clostridiales_Family_XVII_Incertae_Sedis, f__Pelagibacteraceae
+FGB14207	| 3	| f__Nocardiaceae, f__Prochloraceae, f__Cytophagaceae
 FGB14235	| 1	| f__Alphaproteobacteria_unclassified
-FGB14237	| 3	| f__Prochloraceae, f__Streptomycetaceae, f__Candidatus_Latescibacteria_unclassified
-FGB14239	| 7	| f__Prochloraceae, f__Promicromonosporaceae, f__Chromobacteriaceae, f__Actinobacteria_unclassified, f__Erwiniaceae, f__Nanohaloarchaea_unclassified, f__Deltaproteobacteria_unclassified
-FGB14241	| 5	| f__Prochloraceae, f__Actinobacteria_unclassified, f__Micrococcaceae, f__Betaproteobacteria_unclassified, f__Morganellaceae
-FGB14242	| 3	| f__Paenibacillaceae, f__Deltaproteobacteria_unclassified, f__Pelagibacteraceae
-FGB14244	| 2	| f__Pseudomonadaceae, f__Nocardioidaceae
+FGB14237	| 3	| f__Streptomycetaceae, f__Prochloraceae, f__Candidatus_Latescibacteria_unclassified
+FGB14239	| 7	| f__Promicromonosporaceae, f__Prochloraceae, f__Chromobacteriaceae, f__Erwiniaceae, f__Nanohaloarchaea_unclassified, f__Deltaproteobacteria_unclassified, f__Actinobacteria_unclassified
+FGB14241	| 5	| f__Micrococcaceae, f__Betaproteobacteria_unclassified, f__Prochloraceae, f__Morganellaceae, f__Actinobacteria_unclassified
+FGB14242	| 3	| f__Deltaproteobacteria_unclassified, f__Paenibacillaceae, f__Pelagibacteraceae
+FGB14244	| 2	| f__Nocardioidaceae, f__Pseudomonadaceae
 FGB14250	| 1	| f__Prochloraceae
 FGB14260	| 2	| f__Oxalobacteraceae, f__Enterobacteriaceae
-FGB14261	| 2	| f__Pelagibacteraceae, f__Phyllobacteriaceae
+FGB14261	| 2	| f__Phyllobacteriaceae, f__Pelagibacteraceae
 FGB14263	| 2	| f__Rhizobiaceae, f__Flammeovirgaceae
-FGB14268	| 22	| f__Verrucomicrobia_unclassified, f__Burkholderiales_unclassified, f__Sphingomonadaceae, f__Ruaniaceae, f__Caulobacteraceae, f__Flavobacteriaceae, f__Desulfohalobiaceae, f__Enterobacteriaceae, f__Haloarculaceae, f__Prochloraceae, f__Pseudoalteromonadaceae, f__Sphingobacteriaceae, f__Acidobacteria_unclassified, f__Streptococcaceae, f__Pelagibacteraceae, f__Methylococcaceae, f__Synechococcaceae, f__Pseudonocardiaceae, f__Candidatus_Microgenomates_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Pasteuriaceae, f__Rhizobiaceae
-FGB14271	| 6	| f__Pelagibacteraceae, f__Comamonadaceae, f__Rhodanobacteraceae, f__Methylobacteriaceae, f__Streptomycetaceae, f__Micromonosporaceae
+FGB14268	| 22	| f__Pseudoalteromonadaceae, f__Prochloraceae, f__Enterobacteriaceae, f__Burkholderiales_unclassified, f__Candidatus_Microgenomates_unclassified, f__Rhizobiaceae, f__Pasteuriaceae, f__Ruaniaceae, f__Acidobacteria_unclassified, f__Candidatus_Cloacimonetes_unclassified, f__Sphingomonadaceae, f__Verrucomicrobia_unclassified, f__Caulobacteraceae, f__Pelagibacteraceae, f__Desulfohalobiaceae, f__Pseudonocardiaceae, f__Methylococcaceae, f__Synechococcaceae, f__Haloarculaceae, f__Sphingobacteriaceae, f__Flavobacteriaceae, f__Streptococcaceae
+FGB14271	| 6	| f__Comamonadaceae, f__Micromonosporaceae, f__Streptomycetaceae, f__Rhodanobacteraceae, f__Methylobacteriaceae, f__Pelagibacteraceae
 FGB14272	| 2	| f__Prochloraceae, f__Pelagibacteraceae
-FGB14282	| 2	| f__Alteromonadaceae, f__Alphaproteobacteria_unclassified
-FGB14293	| 2	| f__Pelagibacteraceae, f__Alcaligenaceae
-FGB14294	| 2	| f__Prochloraceae, f__Nitrospinaceae
+FGB14282	| 2	| f__Alphaproteobacteria_unclassified, f__Alteromonadaceae
+FGB14293	| 2	| f__Alcaligenaceae, f__Pelagibacteraceae
+FGB14294	| 2	| f__Nitrospinaceae, f__Prochloraceae
 FGB14315	| 1	| f__Prochloraceae
 FGB14333	| 2	| f__Lactobacillaceae, f__Synechococcaceae
 FGB14346	| 2	| f__Prochloraceae, f__Synechococcaceae
@@ -1433,39 +1433,39 @@ FGB14358	| 3	| f__Prochloraceae, f__Synechococcaceae, f__Candidatus_Diapherotrit
 FGB14359	| 2	| f__Lactobacillaceae, f__Pseudomonadaceae
 FGB14376	| 2	| f__Alphaproteobacteria_unclassified, f__Candidatus_Marinimicrobia_unclassified
 FGB14418	| 2	| f__Oxalobacteraceae, f__Betaproteobacteria_unclassified
-FGB14421	| 9	| f__Prochloraceae, f__Desulfobulbaceae, f__Mycobacteriaceae, f__Nocardioidaceae, f__Rhodobacteraceae, f__Gammaproteobacteria_unclassified, f__Campylobacteraceae, f__Rhizobiaceae, f__Brevibacteriaceae
-FGB14429	| 7	| f__Pelagibacteraceae, f__Prochloraceae, f__Paenibacillaceae, f__Cytophagaceae, f__Streptomycetaceae, f__Rhodobacteraceae, f__Deinococcaceae
-FGB14430	| 3	| f__Pelagibacteraceae, f__Streptomycetaceae, f__Prochloraceae
-FGB14451	| 5	| f__Prochloraceae, f__Mycobacteriaceae, f__Streptomycetaceae, f__Archaea_unclassified, f__Thaumarchaeota_unclassified
-FGB14462	| 3	| f__Prochloraceae, f__Alteromonadaceae, f__Lactobacillaceae
-FGB14463	| 7	| f__Prochloraceae, f__Sulfolobaceae, f__Bacillaceae, f__Cellulomonadaceae, f__Streptomycetaceae, f__Erwiniaceae, f__Candidatus_Parcubacteria_unclassified
-FGB14464	| 3	| f__Epsilonproteobacteria_unclassified, f__Nocardioidaceae, f__Comamonadaceae
-FGB14480	| 9	| f__Prochloraceae, f__Pelagibacteraceae, f__Synechococcaceae, f__Desulfobulbaceae, f__Streptomycetaceae, f__Acetobacteraceae, f__Streptococcaceae, f__Enterobacteriaceae, f__Morganellaceae
-FGB14502	| 4	| f__Prochloraceae, f__Streptomycetaceae, f__Neisseriaceae, f__Candidatus_Marinimicrobia_unclassified
-FGB14512	| 2	| f__Actinobacteria_unclassified, f__Pelagibacteraceae
-FGB14513	| 2	| f__Pelagibacteraceae, f__Candidatus_Fervidibacteria_unclassified
+FGB14421	| 9	| f__Brevibacteriaceae, f__Desulfobulbaceae, f__Campylobacteraceae, f__Rhodobacteraceae, f__Rhizobiaceae, f__Gammaproteobacteria_unclassified, f__Prochloraceae, f__Mycobacteriaceae, f__Nocardioidaceae
+FGB14429	| 7	| f__Rhodobacteraceae, f__Deinococcaceae, f__Cytophagaceae, f__Prochloraceae, f__Paenibacillaceae, f__Streptomycetaceae, f__Pelagibacteraceae
+FGB14430	| 3	| f__Streptomycetaceae, f__Prochloraceae, f__Pelagibacteraceae
+FGB14451	| 5	| f__Thaumarchaeota_unclassified, f__Archaea_unclassified, f__Mycobacteriaceae, f__Prochloraceae, f__Streptomycetaceae
+FGB14462	| 3	| f__Lactobacillaceae, f__Prochloraceae, f__Alteromonadaceae
+FGB14463	| 7	| f__Bacillaceae, f__Candidatus_Parcubacteria_unclassified, f__Sulfolobaceae, f__Prochloraceae, f__Cellulomonadaceae, f__Erwiniaceae, f__Streptomycetaceae
+FGB14464	| 3	| f__Comamonadaceae, f__Nocardioidaceae, f__Epsilonproteobacteria_unclassified
+FGB14480	| 9	| f__Acetobacteraceae, f__Desulfobulbaceae, f__Prochloraceae, f__Synechococcaceae, f__Morganellaceae, f__Streptomycetaceae, f__Enterobacteriaceae, f__Streptococcaceae, f__Pelagibacteraceae
+FGB14502	| 4	| f__Candidatus_Marinimicrobia_unclassified, f__Streptomycetaceae, f__Prochloraceae, f__Neisseriaceae
+FGB14512	| 2	| f__Pelagibacteraceae, f__Actinobacteria_unclassified
+FGB14513	| 2	| f__Candidatus_Fervidibacteria_unclassified, f__Pelagibacteraceae
 FGB14518	| 2	| f__Armatimonadetes_unclassified, f__Desulfovibrionaceae
 FGB14520	| 2	| f__Rhizobiaceae, f__Erwiniaceae
 FGB14522	| 2	| f__Deltaproteobacteria_unclassified, f__Chitinophagaceae
-FGB14532	| 3	| f__Prochloraceae, f__Haloferacaceae, f__Sulfolobales_unclassified
-FGB14535	| 6	| f__Prochloraceae, f__Flavobacteriaceae, f__Thermoproteaceae, f__Intrasporangiaceae, f__Bacillaceae, f__Micrococcaceae
+FGB14532	| 3	| f__Sulfolobales_unclassified, f__Prochloraceae, f__Haloferacaceae
+FGB14535	| 6	| f__Bacillaceae, f__Micrococcaceae, f__Prochloraceae, f__Flavobacteriaceae, f__Intrasporangiaceae, f__Thermoproteaceae
 FGB14542	| 2	| f__Geobacteraceae, f__Cytophagaceae
-FGB14544	| 2	| f__Marinifilaceae, f__Phyllobacteriaceae
-FGB14547	| 6	| f__Prochloraceae, f__Synechococcaceae, f__Comamonadaceae, f__Erwiniaceae, f__Burkholderiales_unclassified, f__Colwelliaceae
-FGB14553	| 3	| f__Prochloraceae, f__Micropepsaceae, f__Verrucomicrobia_unclassified
-FGB14593	| 4	| f__Neisseriaceae, f__Betaproteobacteria_unclassified, f__Morganellaceae, f__Comamonadaceae
-FGB14597	| 2	| f__Micrococcaceae, f__Mycobacteriaceae
+FGB14544	| 2	| f__Phyllobacteriaceae, f__Marinifilaceae
+FGB14547	| 6	| f__Comamonadaceae, f__Prochloraceae, f__Synechococcaceae, f__Colwelliaceae, f__Erwiniaceae, f__Burkholderiales_unclassified
+FGB14553	| 3	| f__Micropepsaceae, f__Prochloraceae, f__Verrucomicrobia_unclassified
+FGB14593	| 4	| f__Comamonadaceae, f__Morganellaceae, f__Neisseriaceae, f__Betaproteobacteria_unclassified
+FGB14597	| 2	| f__Mycobacteriaceae, f__Micrococcaceae
 FGB14607	| 2	| f__Xanthomonadaceae, f__Phyllobacteriaceae
-FGB14624	| 2	| f__Corynebacteriaceae, f__Candidatus_Marinamargulisbacteria_unclassified
-FGB14697	| 2	| f__Thermoproteaceae, f__Candidatus_Atribacteria_unclassified
+FGB14624	| 2	| f__Candidatus_Marinamargulisbacteria_unclassified, f__Corynebacteriaceae
+FGB14697	| 2	| f__Candidatus_Atribacteria_unclassified, f__Thermoproteaceae
 FGB14698	| 2	| f__Bacteria_unclassified, f__Burkholderiaceae
 FGB14715	| 2	| f__Prochloraceae, f__Pseudomonadaceae
-FGB14783	| 2	| f__Prochloraceae, f__Nocardioidaceae
-FGB14785	| 4	| f__Thermaceae, f__Pelagibacteraceae, f__Desulfobacteraceae, f__Cellulomonadaceae
+FGB14783	| 2	| f__Nocardioidaceae, f__Prochloraceae
+FGB14785	| 4	| f__Cellulomonadaceae, f__Thermaceae, f__Desulfobacteraceae, f__Pelagibacteraceae
 FGB14790	| 2	| f__Rhizobiaceae, f__Comamonadaceae
 FGB14897	| 2	| f__Prochloraceae, f__Pelagibacteraceae
 FGB14902	| 2	| f__Prochloraceae, f__Burkholderiaceae
-FGB14915	| 2	| f__Crenarchaeota_unclassified, f__Flavobacteriales_unclassified
-FGB14969	| 2	| f__Helicobacteraceae, f__Mycobacteriaceae
-FGB14984	| 5	| f__Prochloraceae, f__Comamonadaceae, f__Betaproteobacteria_unclassified, f__Chitinophagaceae, f__Rhizobiaceae
-FGB14987	| 7	| f__Prochloraceae, f__Candidatus_Aminicenantes_unclassified, f__Pelagibacteraceae, f__Streptosporangiaceae, f__Bradyrhizobiaceae, f__Thaumarchaeota_unclassified, f__Idiomarinaceae
+FGB14915	| 2	| f__Flavobacteriales_unclassified, f__Crenarchaeota_unclassified
+FGB14969	| 2	| f__Mycobacteriaceae, f__Helicobacteraceae
+FGB14984	| 5	| f__Comamonadaceae, f__Betaproteobacteria_unclassified, f__Rhizobiaceae, f__Prochloraceae, f__Chitinophagaceae
+FGB14987	| 7	| f__Bradyrhizobiaceae, f__Thaumarchaeota_unclassified, f__Prochloraceae, f__Streptosporangiaceae, f__Idiomarinaceae, f__Candidatus_Aminicenantes_unclassified, f__Pelagibacteraceae

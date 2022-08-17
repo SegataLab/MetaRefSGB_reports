@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Mar22](../README.md#assigning-taxonomy-based-on-a-majority-rule-accounting-for-the-main-genera) release: List of SGB whose taxonomy could be replaced with a new assigning method
 ID | Old assigned taxonomy | New assigned taxonomy
 ------------ | ------------- | -------------
 966	| k__Bacteria\|p__Actinobacteria\|c__Coriobacteriia\|o__Coriobacteriales\|f__Atopobiaceae\|g__Lancefieldella\|s__Lancefieldella_parvula\|t__SGB966	| k__Bacteria\|p__Actinobacteria\|c__Coriobacteriia\|o__Coriobacteriales\|f__Atopobiaceae\|g__Atopobium\|s__Atopobium_sp_BS2\|t__SGB966

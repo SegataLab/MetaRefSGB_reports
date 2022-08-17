@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Aug19](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with their genus
 Genus | Number of different taxonomies | Different taxonomies
 ------------ | ------------- | -------------
 g__Euryarchaeota_unclassified	| 1	| k__Archaea\|p__Euryarchaeota\|c__Euryarchaeota_unclassified\|o__Euryarchaeota_unclassified\|f__Euryarchaeota_unclassified:10

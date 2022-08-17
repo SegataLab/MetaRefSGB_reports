@@ -1,3 +1,3 @@
-# Table containing the SGB concerned
+# [Jul19](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with more than one genus
 Genus | Number of different taxonomies | Different taxonomies
 ------------ | ------------- | -------------

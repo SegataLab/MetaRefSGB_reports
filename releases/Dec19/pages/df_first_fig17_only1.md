@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Dec19](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with only one genus
 Genus | Different taxonomies
 ------------ | -------------
 g__Euryarchaeota_unclassified	| k__Archaea\|p__Euryarchaeota\|c__Euryarchaeota_unclassified\|o__Euryarchaeota_unclassified\|f__Euryarchaeota_unclassified:13

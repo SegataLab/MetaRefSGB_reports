@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Sep19](../README.md#sgbs-with-2-alternative-taxonomies-in-a-50--50-proportion) release: SGBs with 2 alternative taxonomies in a 50 / 50 proportion
 ID | Type | End Taxonomy Level | List of alternative taxonomies
 ------------ | ------------- | ------------- | -------------
 31	| Non-Binary : Non-Binary	| Same Genus	| k__Archaea\|p__Euryarchaeota\|c__Euryarchaeota_unclassified\|o__Euryarchaeota_unclassified\|f__Euryarchaeota_unclassified\|g__Euryarchaeota_unclassified\|s__candidate_division_MSBL1_archaeon_SCGC_AAA833F18:1,k__Archaea\|p__Euryarchaeota\|c__Euryarchaeota_unclassified\|o__Euryarchaeota_unclassified\|f__Euryarchaeota_unclassified\|g__Euryarchaeota_unclassified\|s__candidate_division_MSBL1_archaeon_SCGC_AAA833K04:1

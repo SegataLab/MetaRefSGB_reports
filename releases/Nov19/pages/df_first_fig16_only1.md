@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Nov19](../README.md#taxonomic-families-per-fgb) release: List of FGBs with only one familiy
 FGB ID | Family names
 ------------ | -------------
 FGB27	| 1	| f__Euryarchaeota_unclassified

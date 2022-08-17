@@ -1,4 +1,4 @@
-# Comparisons between version Jan20 and Dec19
+# Comparisons between version [Jan20](README.md) and [Dec19](../Dec19/README.md)
 In this document there are statistics to compare the releases Jan20 and Dec19.
 
 

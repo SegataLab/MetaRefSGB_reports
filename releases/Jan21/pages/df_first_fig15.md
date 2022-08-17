@@ -1,5 +1,4 @@
-# Table containing the SGB concerned
-ID | Type | End Taxonomy Level | List of alternative taxonomies
+# [Jan21](../README.md#taxonomic-differences-in-the-alternative-taxonomies-for-the-sgbs-with-2-alternative-taxonomues-in-a-50--50-proporyion) release: Number of SGBs by the higher taxonomic level that differs between the to alternative taxonomies. `Non-Binary : Non-Binary` groupID | Type | End Taxonomy Level | List of alternative taxonomies
 ------------ | ------------- | ------------- | -------------
 595	| Non-Binary : Non-Binary	| Same Genus	| k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanosarcinales\|f__Methanosarcinaceae\|g__Methanosarcina\|s__Methanosarcina_sp_WWM596:1,k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanosarcinales\|f__Methanosarcinaceae\|g__Methanosarcina\|s__Methanosarcina_sp_WH1:1
 858	| Non-Binary : Non-Binary	| Same Genus	| k__Archaea\|p__Crenarchaeota\|c__Thermoprotei\|o__Sulfolobales\|f__Sulfolobaceae\|g__Acidianus\|s__Candidatus_Acidianus_copahuensis:1,k__Archaea\|p__Crenarchaeota\|c__Thermoprotei\|o__Sulfolobales\|f__Sulfolobaceae\|g__Acidianus\|s__Acidianus_sp_RZ1:1

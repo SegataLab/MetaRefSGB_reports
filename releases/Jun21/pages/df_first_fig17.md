@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Jun21](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with their genus
 Genus | Number of different taxonomies | Different taxonomies
 ------------ | ------------- | -------------
 g__Haladaptatus	| 1	| k__Archaea\|p__Euryarchaeota\|c__Halobacteria\|o__Halobacteriales\|f__Halobacteriaceae:3

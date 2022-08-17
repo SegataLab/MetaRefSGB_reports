@@ -1284,7 +1284,7 @@ for index_file in range(len(files)):
 
     f = open(PAGES_const + "df_first_fig12.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#sgbs-with-2-alternative-taxonomies-in-a-50--50-proportion) release: SGBs with 2 alternative taxonomies in a 50 / 50 proportion\n" +
         "ID | Type | End Taxonomy Level | List of alternative taxonomies\n" +
         "------------ | ------------- | ------------- | -------------\n"
     )
@@ -1298,7 +1298,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Type"] == "Binary : Binary"]
     f = open(PAGES_const + "df_first_fig13.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-differences-in-the-alternative-taxonomies-for-the-sgbs-with-2-alternative-taxonomues-in-a-50--50-proporyion) release: Number of SGBs by the higher taxonomic level that differs between the to alternative taxonomies. `Binary : Binary` group" +
         "ID | Type | End Taxonomy Level | List of alternative taxonomies\n" +
         "------------ | ------------- | ------------- | -------------\n"
     )
@@ -1312,7 +1312,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Type"] == "Binary : Non-Binary"]
     f = open(PAGES_const + "df_first_fig14.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-differences-in-the-alternative-taxonomies-for-the-sgbs-with-2-alternative-taxonomues-in-a-50--50-proporyion) release: Number of SGBs by the higher taxonomic level that differs between the to alternative taxonomies. `Binary : Non-Binary` group" +
         "ID | Type | End Taxonomy Level | List of alternative taxonomies\n" +
         "------------ | ------------- | ------------- | -------------\n"
     )
@@ -1326,7 +1326,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Type"] == "Non-Binary : Non-Binary"]
     f = open(PAGES_const + "df_first_fig15.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-differences-in-the-alternative-taxonomies-for-the-sgbs-with-2-alternative-taxonomues-in-a-50--50-proporyion) release: Number of SGBs by the higher taxonomic level that differs between the to alternative taxonomies. `Non-Binary : Non-Binary` group" +
         "ID | Type | End Taxonomy Level | List of alternative taxonomies\n" +
         "------------ | ------------- | ------------- | -------------\n"
     )
@@ -1441,7 +1441,7 @@ for index_file in range(len(files)):
 
     f = open(PAGES_const + "df_first_fig16.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-families-per-fgb) release: List of FGBs with their families\n" +
         "FGB ID | Number of Families | Family names\n" +
         "------------ | ------------- | -------------\n"
     )
@@ -1455,7 +1455,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Number of Families"] > 1]
     f = open(PAGES_const + "df_first_fig16_more1.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-families-per-fgb) release: List of FGBs with more than one family\n" +
         "FGB ID | Number of Families | Family names\n" +
         "------------ | ------------- | -------------\n"
     )
@@ -1469,7 +1469,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Number of Families"] == 1]
     f = open(PAGES_const + "df_first_fig16_only1.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-families-per-fgb) release: List of FGBs with only one familiy\n" +
         "FGB ID | Family names\n" +
         "------------ | -------------\n"
     )
@@ -1566,7 +1566,7 @@ for index_file in range(len(files)):
 
     f = open(PAGES_const + "df_first_fig17.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with their genus\n" +
         "Genus | Number of different taxonomies | Different taxonomies\n" +
         "------------ | ------------- | -------------\n"
     )
@@ -1580,7 +1580,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Number of different taxonomies"] > 1]
     f = open(PAGES_const + "df_first_fig17_more1.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with more than one genus\n" +
         "Genus | Number of different taxonomies | Different taxonomies\n" +
         "------------ | ------------- | -------------\n"
     )
@@ -1594,7 +1594,7 @@ for index_file in range(len(files)):
     temp = df_out[df_out["Number of different taxonomies"] == 1]
     f = open(PAGES_const + "df_first_fig17_only1.md", "w")
     f.write(
-        "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with only one genus\n" +
         "Genus | Different taxonomies\n" +
         "------------ | -------------\n"
     )
@@ -1725,7 +1725,7 @@ for index_file in range(len(files)):
 
         f = open(PAGES_const + "df_first_modified.md", "w")
         f.write(
-            "# Table containing the SGB concerned\n" +
+        "# [" + FILE_const[:5] + "](../README.md#assigning-taxonomy-based-on-a-majority-rule-accounting-for-the-main-genera) release: List of SGB whose taxonomy could be replaced with a new assigning method\n" +
             "ID | Old assigned taxonomy | New assigned taxonomy\n" +
             "------------ | ------------- | -------------\n"
         )
@@ -1817,7 +1817,7 @@ for index_file in range(len(files)):
 
         f = open(PAGES_const + "df_second_fig2.md", "w")
         f.write(
-            "# Table containing the SGB concerned\n" +
+            "# [" + FILE_const[:5] + "](../" + PAST_FILE_const[:5] + "-" + FILE_const[:5] + "comparison.md#how-many-sgbs-change-type) release: List of SGBs that change SGB type" +
             "ID | Old assigned taxonomy | New assigned taxonomy | Type of change\n" +
             "------------ | ------------- | ------------- | -------------\n"
         )
@@ -1830,7 +1830,7 @@ for index_file in range(len(files)):
 
         f = open(PAGES_const + "df_second_fig2_upgrade.md", "w")
         f.write(
-            "# Table containing the SGB concerned\n" +
+            "# [" + FILE_const[:5] + "](../" + PAST_FILE_const[:5] + "-" + FILE_const[:5] + "comparison.md#how-many-sgbs-change-type) release: List of uSGBs that change to kSGB" +
             "ID | Old assigned taxonomy | New assigned taxonomy\n" +
             "------------ | ------------- | -------------\n"
         )
@@ -1844,7 +1844,7 @@ for index_file in range(len(files)):
 
         f = open(PAGES_const + "df_second_fig2_downgrade.md", "w")
         f.write(
-            "# Table containing the SGB concerned\n" +
+            "# [" + FILE_const[:5] + "](../" + PAST_FILE_const[:5] + "-" + FILE_const[:5] + "comparison.md#how-many-sgbs-change-type) release: List of kSGBs that change to uSGB" +
             "ID | Old assigned taxonomy | New assigned taxonomy\n" +
             "------------ | ------------- | -------------\n"
         )
@@ -2525,16 +2525,24 @@ for index_file in range(len(files)):
     first_fig17.savefig(PICTURES_const + "first_fig17.jpg")
 
     
-    f = open(RELEASES + FILE_const[:5] + "/" + FILE_const[:5] + ".md", "w")
+    f = open(RELEASES + FILE_const[:5] + "/README.md", "w")
     f.write(
-        "# Report for the " + FILE_const[:5] + " release\n" +
+        "# Report for the " + FILE_const[:5] + " release\n"
+    )
+
+    if index_file > 0:    
+        f.write(
+            "[Here](" + PAST_FILE_const[:5] + "-" + FILE_const[:5] + "_comparison.md) the comparison between " + PAST_FILE_const[:5] + " and " + FILE_const[:5] + " releases.\n\n"
+        )
+
+    f.write(
         "## Releases overview\n\n\n" +
         "Release | Total MAGs | Total Reference Genomes | New MAGs | New Reference Genomes | Total kSGBs | Total uSGBs | New kSGBs | New uSGBs | Unknown to known\n" +
         "------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------\n"
     )
 
     for row in tab.index:
-        f.write("[" + str(tab.loc[row]["Release"]) + "](../" + str(tab.loc[row]["Release"]) + "/" + str(tab.loc[row]["Release"]) + ".md)\t| ")
+        f.write("[" + str(tab.loc[row]["Release"]) + "](../" + str(tab.loc[row]["Release"]) + "/README.md)\t| ")
         for column in list(tab.columns)[1:-1]:
             f.write(str(tab.loc[row][column]) + "\t| ")
         f.write(str(tab.loc[row][list(tab.columns)[-1]]) + "\n")
@@ -2796,6 +2804,8 @@ for index_file in range(len(files)):
         test = pd.read_csv(FILES_const + "df_first_statistics_table.txt", sep = "\t")
         test = test.sort_values(["Number of outliers"], ascending = False)
 
+        f_out.write("# [" + FILE_const[:5] + "](../README.md#table-containing-the-statistics-for-the-current-version) release: Table containing the statistics for the current version\n")
+
         for column in test.columns[:-1]:
             f_out.write(str(column) + " | ")
         f_out.write(str(test.columns[-1]) + "\n")
@@ -2845,7 +2855,7 @@ for index_file in range(len(files)):
         f = open(RELEASES + FILE_const[:5] + "/" + PAST_FILE_const[:5] + "-" + FILE_const[:5] + "_comparison.md", "w")
 
         f.write(
-            "# Comparisons between version " + FILE_const[:5] + " and " + PAST_FILE_const[:5] + "\n" +
+            "# Comparisons between version [" + FILE_const[:5] + "](README.md) and [" + PAST_FILE_const[:5] + "](../" + PAST_FILE_const[:5] + "/README.md)\n" +
             "In this document there are statistics to compare the releases " + FILE_const[:5] + " and " + PAST_FILE_const[:5] + ".\n\n\n" +
 
             # second_fig1

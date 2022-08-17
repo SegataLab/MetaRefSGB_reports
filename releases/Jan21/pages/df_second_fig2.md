@@ -1,5 +1,4 @@
-# Table containing the SGB concerned
-ID | Old assigned taxonomy | New assigned taxonomy | Type of change
+# [Jan21](../Dec20-Jan21comparison.md#how-many-sgbs-change-type) release: List of SGBs that change SGB typeID | Old assigned taxonomy | New assigned taxonomy | Type of change
 ------------ | ------------- | ------------- | -------------
 0      124
 0      372

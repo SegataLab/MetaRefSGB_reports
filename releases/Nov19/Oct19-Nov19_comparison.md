@@ -1,4 +1,4 @@
-# Comparisons between version Nov19 and Oct19
+# Comparisons between version [Nov19](README.md) and [Oct19](../Oct19/README.md)
 In this document there are statistics to compare the releases Nov19 and Oct19.
 
 

@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Sep20](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with their genus
 Genus | Number of different taxonomies | Different taxonomies
 ------------ | ------------- | -------------
 g__Methanoregula	| 1	| k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanomicrobiales\|f__Methanoregulaceae:2

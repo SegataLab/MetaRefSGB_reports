@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Mar22](../README.md#taxonomic-genera-present-in-several-fgbs) release: List of FGBs with more than one genus
 Genus | Number of different taxonomies | Different taxonomies
 ------------ | ------------- | -------------
 g__Eubacterium	| 2	| k__Bacteria\|p__Firmicutes\|c__Clostridia\|o__Eubacteriales\|f__Eubacteriaceae:11,k__Bacteria\|p__Firmicutes\|c__Clostridia\|o__Clostridiales\|f__Eubacteriaceae:1

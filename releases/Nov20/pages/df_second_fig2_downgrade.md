@@ -1,5 +1,4 @@
-# Table containing the SGB concerned
-ID | Old assigned taxonomy | New assigned taxonomy
+# [Nov20](../Sep20-Nov20comparison.md#how-many-sgbs-change-type) release: List of kSGBs that change to uSGBID | Old assigned taxonomy | New assigned taxonomy
 ------------ | ------------- | -------------
 0     1552
 0     2493

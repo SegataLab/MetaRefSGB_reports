@@ -1,5 +1,4 @@
-# Table containing the SGB concerned
-ID | Type | End Taxonomy Level | List of alternative taxonomies
+# [Dec19](../README.md#taxonomic-differences-in-the-alternative-taxonomies-for-the-sgbs-with-2-alternative-taxonomues-in-a-50--50-proporyion) release: Number of SGBs by the higher taxonomic level that differs between the to alternative taxonomies. `Binary : Non-Binary` groupID | Type | End Taxonomy Level | List of alternative taxonomies
 ------------ | ------------- | ------------- | -------------
 177	| Binary : Non-Binary	| Same Genus	| k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanomicrobiales\|f__Methanomicrobiaceae\|g__Methanoculleus\|s__Methanoculleus_marisnigri:1,k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanomicrobiales\|f__Methanomicrobiaceae\|g__Methanoculleus\|s__Methanoculleus_sp_MH98A:1
 268	| Binary : Non-Binary	| Order	| k__Archaea\|p__Euryarchaeota\|c__Halobacteria\|o__Halobacteriales\|f__Halobacteriales_unclassified\|g__Halobacteriales_unclassified\|s__haloarchaeon_3A1_DGR:1,k__Archaea\|p__Euryarchaeota\|c__Halobacteria\|o__Haloferacales\|f__Halorubraceae\|g__Halopenitus\|s__Halopenitus_persicus:1

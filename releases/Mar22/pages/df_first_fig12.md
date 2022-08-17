@@ -1,4 +1,4 @@
-# Table containing the SGB concerned
+# [Mar22](../README.md#sgbs-with-2-alternative-taxonomies-in-a-50--50-proportion) release: SGBs with 2 alternative taxonomies in a 50 / 50 proportion
 ID | Type | End Taxonomy Level | List of alternative taxonomies
 ------------ | ------------- | ------------- | -------------
 177	| Binary : Non-Binary	| Same Genus	| k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanomicrobiales\|f__Methanomicrobiaceae\|g__Methanoculleus\|s__Methanoculleus_sp_MH98A:1,k__Archaea\|p__Euryarchaeota\|c__Methanomicrobia\|o__Methanomicrobiales\|f__Methanomicrobiaceae\|g__Methanoculleus\|s__Methanoculleus_marisnigri:1

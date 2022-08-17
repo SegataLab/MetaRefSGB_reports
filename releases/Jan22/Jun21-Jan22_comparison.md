@@ -1,4 +1,4 @@
-# Comparisons between version Jan22 and Jun21
+# Comparisons between version [Jan22](README.md) and [Jun21](../Jun21/README.md)
 In this document there are statistics to compare the releases Jan22 and Jun21.
 
 
